@@ -1,0 +1,1006 @@
+2024-03-25 11:58:36,537 INFO     kb Gradient Boosting Classifier
+2024-03-25 11:59:07,867 INFO     kb |   iter    |  target   | learni... | max_depth | max_fe... | min_sa... | min_sa... | n_esti... |
+-------------------------------------------------------------------------------------------------
+
+2024-03-25 11:59:07,867 INFO     kb 
+2024-03-25 11:59:07,868 INFO     kb Raw Parameters : n_estimators = 4813.434932858793, max_depth = 82.80378596829075, learning_rate = 0.15610407007842128, max_features = 94.39598225545551, min_samples_leaf = 20.177638348680727, min_samples_split = 18.326372107784856.
+2024-03-25 11:59:07,869 INFO     kb 
+
+2024-03-25 11:59:07,869 INFO     kb Changed Parameters : n_estimators = 4813, max_depth = 83, learning_rate = 0.15610407007842128, max_features = 94, min_samples_leaf = 20, min_samples_split = 18.
+2024-03-25 11:59:07,870 INFO     kb 
+
+2024-03-25 12:16:19,896 INFO     kb Score : 0.6787281883328191.
+2024-03-25 12:16:19,897 INFO     kb 
+
+2024-03-25 12:16:19,898 INFO     kb 
+2024-03-25 12:16:19,898 INFO     kb 
+2024-03-25 12:16:19,899 INFO     kb Raw Parameters : n_estimators = 868.4885752372169, max_depth = 85.97913752137619, learning_rate = 0.43265857861732954, max_features = 23.183577956474526, min_samples_leaf = 76.31314991813734, min_samples_split = 129.30860472141302.
+2024-03-25 12:16:19,899 INFO     kb 
+
+2024-03-25 12:16:19,899 INFO     kb Changed Parameters : n_estimators = 868, max_depth = 86, learning_rate = 0.43265857861732954, max_features = 23, min_samples_leaf = 76, min_samples_split = 129.
+2024-03-25 12:16:19,900 INFO     kb 
+
+2024-03-25 12:16:29,580 INFO     kb Score : 0.9174545744434276.
+2024-03-25 12:16:29,581 INFO     kb 
+
+2024-03-25 12:16:29,581 INFO     kb | [95m2        [0m | [95m0.9175   [0m | [95m0.4327   [0m | [95m85.98    [0m | [95m23.18    [0m | [95m76.31    [0m | [95m129.3    [0m | [95m868.5    [0m |
+
+2024-03-25 12:16:29,581 INFO     kb 
+2024-03-25 12:16:29,582 INFO     kb Raw Parameters : n_estimators = 4169.011342027654, max_depth = 40.0982932031089, learning_rate = 0.3284966236074542, max_features = 229.06540262325908, min_samples_leaf = 91.95630758756506, min_samples_split = 26.15659106332101.
+2024-03-25 12:16:29,582 INFO     kb 
+
+2024-03-25 12:16:29,583 INFO     kb Changed Parameters : n_estimators = 4169, max_depth = 40, learning_rate = 0.3284966236074542, max_features = 229, min_samples_leaf = 92, min_samples_split = 26.
+2024-03-25 12:16:29,583 INFO     kb 
+
+2024-03-25 12:28:15,037 INFO     kb Score : 0.9349781925380873.
+2024-03-25 12:28:15,038 INFO     kb 
+
+2024-03-25 12:28:15,039 INFO     kb | [95m3        [0m | [95m0.935    [0m | [95m0.3285   [0m | [95m40.1     [0m | [95m229.1    [0m | [95m91.96    [0m | [95m26.16    [0m | [95m4.169e+03[0m |
+
+2024-03-25 12:28:15,040 INFO     kb 
+2024-03-25 12:28:15,041 INFO     kb Raw Parameters : n_estimators = 2496.4209852473255, max_depth = 98.82750157502868, learning_rate = 0.22197606648620302, max_features = 207.24348174693736, min_samples_leaf = 56.69532359617894, min_samples_split = 117.41077041399002.
+2024-03-25 12:28:15,042 INFO     kb 
+
+2024-03-25 12:28:15,042 INFO     kb Changed Parameters : n_estimators = 2496, max_depth = 99, learning_rate = 0.22197606648620302, max_features = 207, min_samples_leaf = 57, min_samples_split = 117.
+2024-03-25 12:28:15,043 INFO     kb 
+
+2024-03-25 12:40:56,340 INFO     kb Score : 0.9406272869650367.
+2024-03-25 12:40:56,341 INFO     kb 
+
+2024-03-25 12:40:56,342 INFO     kb | [95m4        [0m | [95m0.9406   [0m | [95m0.222    [0m | [95m98.83    [0m | [95m207.2    [0m | [95m56.7     [0m | [95m117.4    [0m | [95m2.496e+03[0m |
+
+2024-03-25 12:40:56,342 INFO     kb 
+2024-03-25 12:40:56,342 INFO     kb Raw Parameters : n_estimators = 2311.5957066732844, max_depth = 68.9015661936412, learning_rate = 0.4512217299654188, max_features = 243.26332489552016, min_samples_leaf = 81.7538391010703, min_samples_split = 136.7055151730023.
+2024-03-25 12:40:56,343 INFO     kb 
+
+2024-03-25 12:40:56,343 INFO     kb Changed Parameters : n_estimators = 2312, max_depth = 69, learning_rate = 0.4512217299654188, max_features = 243, min_samples_leaf = 82, min_samples_split = 137.
+2024-03-25 12:40:56,343 INFO     kb 
+
+2024-03-25 12:50:27,058 INFO     kb Score : 0.9333929945639028.
+2024-03-25 12:50:27,059 INFO     kb 
+
+2024-03-25 12:50:27,059 INFO     kb 
+2024-03-25 12:50:27,059 INFO     kb 
+2024-03-25 12:50:27,060 INFO     kb Raw Parameters : n_estimators = 2635.254051939604, max_depth = 91.42936282727219, learning_rate = 0.1425455375574815, max_features = 32.342243798487054, min_samples_leaf = 8.723859405110172, min_samples_split = 108.0627490749889.
+2024-03-25 12:50:27,060 INFO     kb 
+
+2024-03-25 12:50:27,061 INFO     kb Changed Parameters : n_estimators = 2635, max_depth = 91, learning_rate = 0.1425455375574815, max_features = 32, min_samples_leaf = 9, min_samples_split = 108.
+2024-03-25 12:50:27,061 INFO     kb 
+
+2024-03-25 12:57:08,023 INFO     kb Score : 0.944633505827829.
+2024-03-25 12:57:08,024 INFO     kb 
+
+2024-03-25 12:57:08,025 INFO     kb | [95m6        [0m | [95m0.9446   [0m | [95m0.1425   [0m | [95m91.43    [0m | [95m32.34    [0m | [95m8.724    [0m | [95m108.1    [0m | [95m2.635e+03[0m |
+
+2024-03-25 12:57:08,025 INFO     kb 
+2024-03-25 12:57:08,026 INFO     kb Raw Parameters : n_estimators = 2726.765335558313, max_depth = 99.84014232615002, learning_rate = 0.4842561384372982, max_features = 246.444451267843, min_samples_leaf = 89.98832008820045, min_samples_split = 13.945825118766997.
+2024-03-25 12:57:08,026 INFO     kb 
+
+2024-03-25 12:57:08,027 INFO     kb Changed Parameters : n_estimators = 2727, max_depth = 100, learning_rate = 0.4842561384372982, max_features = 246, min_samples_leaf = 90, min_samples_split = 14.
+2024-03-25 12:57:08,027 INFO     kb 
+
+2024-03-25 13:07:43,588 INFO     kb Score : 0.8680521623713496.
+2024-03-25 13:07:43,588 INFO     kb 
+
+2024-03-25 13:07:43,589 INFO     kb 
+2024-03-25 13:07:43,589 INFO     kb 
+2024-03-25 13:07:43,589 INFO     kb Raw Parameters : n_estimators = 1325.660095566192, max_depth = 69.87835800600197, learning_rate = 0.01987477047678258, max_features = 168.35138975573463, min_samples_leaf = 79.4879603267753, min_samples_split = 76.68916566833695.
+2024-03-25 13:07:43,590 INFO     kb 
+
+2024-03-25 13:07:43,590 INFO     kb Changed Parameters : n_estimators = 1326, max_depth = 70, learning_rate = 0.01987477047678258, max_features = 168, min_samples_leaf = 79, min_samples_split = 77.
+2024-03-25 13:07:43,590 INFO     kb 
+
+2024-03-25 13:10:40,466 INFO     kb Score : 0.9445758706020401.
+2024-03-25 13:10:40,467 INFO     kb 
+
+2024-03-25 13:10:40,467 INFO     kb 
+2024-03-25 13:10:40,467 INFO     kb 
+2024-03-25 13:10:40,468 INFO     kb Raw Parameters : n_estimators = 669.9058827532087, max_depth = 26.430181304854052, learning_rate = 0.10021167434764067, max_features = 199.94205883178302, min_samples_leaf = 53.17655147929779, min_samples_split = 20.74218376172432.
+2024-03-25 13:10:40,468 INFO     kb 
+
+2024-03-25 13:10:40,468 INFO     kb Changed Parameters : n_estimators = 670, max_depth = 26, learning_rate = 0.10021167434764067, max_features = 200, min_samples_leaf = 53, min_samples_split = 21.
+2024-03-25 13:10:40,468 INFO     kb 
+
+2024-03-25 13:12:16,819 INFO     kb Score : 0.9491008364010609.
+2024-03-25 13:12:16,819 INFO     kb 
+
+2024-03-25 13:12:16,819 INFO     kb | [95m9        [0m | [95m0.9491   [0m | [95m0.1002   [0m | [95m26.43    [0m | [95m199.9    [0m | [95m53.18    [0m | [95m20.74    [0m | [95m669.9    [0m |
+
+2024-03-25 13:12:16,820 INFO     kb 
+2024-03-25 13:12:16,820 INFO     kb Raw Parameters : n_estimators = 547.358532516993, max_depth = 32.46892729061619, learning_rate = 0.14169037518323457, max_features = 244.528018564729, min_samples_leaf = 90.26846348047542, min_samples_split = 140.0018941729678.
+2024-03-25 13:12:16,820 INFO     kb 
+
+2024-03-25 13:12:16,821 INFO     kb Changed Parameters : n_estimators = 547, max_depth = 32, learning_rate = 0.14169037518323457, max_features = 245, min_samples_leaf = 90, min_samples_split = 140.
+2024-03-25 13:12:16,821 INFO     kb 
+
+2024-03-25 13:13:47,183 INFO     kb Score : 0.9444605876904086.
+2024-03-25 13:13:47,184 INFO     kb 
+
+2024-03-25 13:13:47,184 INFO     kb 
+2024-03-25 13:13:47,184 INFO     kb 
+2024-03-25 13:13:47,284 INFO     kb Raw Parameters : n_estimators = 878.9020834760428, max_depth = 79.15860929621844, learning_rate = 0.013671624160796498, max_features = 26.691715898667702, min_samples_leaf = 66.91155492524798, min_samples_split = 125.86400759509374.
+2024-03-25 13:13:47,285 INFO     kb 
+
+2024-03-25 13:13:47,285 INFO     kb Changed Parameters : n_estimators = 879, max_depth = 79, learning_rate = 0.013671624160796498, max_features = 27, min_samples_leaf = 67, min_samples_split = 126.
+2024-03-25 13:13:47,285 INFO     kb 
+
+2024-03-25 13:14:00,405 INFO     kb Score : 0.8950311049050074.
+2024-03-25 13:14:00,406 INFO     kb 
+
+2024-03-25 13:14:00,406 INFO     kb 
+2024-03-25 13:14:00,406 INFO     kb 
+2024-03-25 13:14:00,457 INFO     kb Raw Parameters : n_estimators = 1616.6224953871872, max_depth = 39.2552937927878, learning_rate = 0.4243401485048363, max_features = 146.40963823621917, min_samples_leaf = 58.84526631479913, min_samples_split = 51.31127598500334.
+2024-03-25 13:14:00,460 INFO     kb 
+
+2024-03-25 13:14:00,465 INFO     kb Changed Parameters : n_estimators = 1617, max_depth = 39, learning_rate = 0.4243401485048363, max_features = 146, min_samples_leaf = 59, min_samples_split = 51.
+2024-03-25 13:14:00,465 INFO     kb 
+
+2024-03-25 13:18:21,280 INFO     kb Score : 0.9387538430856056.
+2024-03-25 13:18:21,280 INFO     kb 
+
+2024-03-25 13:18:21,281 INFO     kb 
+2024-03-25 13:18:21,281 INFO     kb 
+2024-03-25 13:18:21,457 INFO     kb Raw Parameters : n_estimators = 597.7816740737071, max_depth = 66.76890478536859, learning_rate = 0.3347437604173995, max_features = 148.81985988313235, min_samples_leaf = 89.79998577171865, min_samples_split = 83.72603855046374.
+2024-03-25 13:18:21,458 INFO     kb 
+
+2024-03-25 13:18:21,458 INFO     kb Changed Parameters : n_estimators = 598, max_depth = 67, learning_rate = 0.3347437604173995, max_features = 149, min_samples_leaf = 90, min_samples_split = 84.
+2024-03-25 13:18:21,459 INFO     kb 
+
+2024-03-25 13:19:24,716 INFO     kb Score : 0.9407425524325926.
+2024-03-25 13:19:24,716 INFO     kb 
+
+2024-03-25 13:19:24,717 INFO     kb 
+2024-03-25 13:19:24,717 INFO     kb 
+2024-03-25 13:19:24,782 INFO     kb Raw Parameters : n_estimators = 2490.5568237890293, max_depth = 93.53112078687923, learning_rate = 0.1338616959626047, max_features = 82.65494453520277, min_samples_leaf = 52.52489274808907, min_samples_split = 48.20562651470084.
+2024-03-25 13:19:24,783 INFO     kb 
+
+2024-03-25 13:19:24,783 INFO     kb Changed Parameters : n_estimators = 2491, max_depth = 94, learning_rate = 0.1338616959626047, max_features = 83, min_samples_leaf = 53, min_samples_split = 48.
+2024-03-25 13:19:24,783 INFO     kb 
+
+2024-03-25 13:23:02,571 INFO     kb Score : 0.9434805720470599.
+2024-03-25 13:23:02,571 INFO     kb 
+
+2024-03-25 13:23:02,572 INFO     kb 
+2024-03-25 13:23:02,572 INFO     kb 
+2024-03-25 13:23:02,718 INFO     kb Raw Parameters : n_estimators = 707.532724446661, max_depth = 66.20500141746268, learning_rate = 0.07370287690264592, max_features = 13.521436078763367, min_samples_leaf = 94.65552777426304, min_samples_split = 142.0595679778761.
+2024-03-25 13:23:02,718 INFO     kb 
+
+2024-03-25 13:23:02,718 INFO     kb Changed Parameters : n_estimators = 708, max_depth = 66, learning_rate = 0.07370287690264592, max_features = 14, min_samples_leaf = 95, min_samples_split = 142.
+2024-03-25 13:23:02,719 INFO     kb 
+
+2024-03-25 13:23:11,602 INFO     kb Score : 0.8483686487397889.
+2024-03-25 13:23:11,603 INFO     kb 
+
+2024-03-25 13:23:11,603 INFO     kb 
+2024-03-25 13:23:11,603 INFO     kb 
+2024-03-25 13:23:11,653 INFO     kb Raw Parameters : n_estimators = 1091.2207289106373, max_depth = 60.287950555752545, learning_rate = 0.01628378491426037, max_features = 52.67124426906849, min_samples_leaf = 24.93180683416175, min_samples_split = 82.5446931306093.
+2024-03-25 13:23:11,653 INFO     kb 
+
+2024-03-25 13:23:11,653 INFO     kb Changed Parameters : n_estimators = 1091, max_depth = 60, learning_rate = 0.01628378491426037, max_features = 53, min_samples_leaf = 25, min_samples_split = 83.
+2024-03-25 13:23:11,654 INFO     kb 
+
+2024-03-25 13:24:51,997 INFO     kb Score : 0.9464204993605874.
+2024-03-25 13:24:51,998 INFO     kb 
+
+2024-03-25 13:24:51,998 INFO     kb 
+2024-03-25 13:24:51,998 INFO     kb 
+2024-03-25 13:24:52,073 INFO     kb Raw Parameters : n_estimators = 568.1222564284647, max_depth = 24.549738127507105, learning_rate = 0.24874659052720835, max_features = 226.52516502956968, min_samples_leaf = 51.0778303916089, min_samples_split = 30.608449333676447.
+2024-03-25 13:24:52,074 INFO     kb 
+
+2024-03-25 13:24:52,074 INFO     kb Changed Parameters : n_estimators = 568, max_depth = 25, learning_rate = 0.24874659052720835, max_features = 227, min_samples_leaf = 51, min_samples_split = 31.
+2024-03-25 13:24:52,074 INFO     kb 
+
+2024-03-25 13:26:06,397 INFO     kb Score : 0.9465356676397221.
+2024-03-25 13:26:06,398 INFO     kb 
+
+2024-03-25 13:26:06,398 INFO     kb 
+2024-03-25 13:26:06,399 INFO     kb 
+2024-03-25 13:26:06,431 INFO     kb Raw Parameters : n_estimators = 3443.8222743150277, max_depth = 79.97744276993792, learning_rate = 0.43756875717592214, max_features = 252.813138357675, min_samples_leaf = 23.022383460679386, min_samples_split = 51.1058388812114.
+2024-03-25 13:26:06,432 INFO     kb 
+
+2024-03-25 13:26:06,432 INFO     kb Changed Parameters : n_estimators = 3444, max_depth = 80, learning_rate = 0.43756875717592214, max_features = 253, min_samples_leaf = 23, min_samples_split = 51.
+2024-03-25 13:26:06,432 INFO     kb 
+
+2024-03-25 13:39:19,576 INFO     kb Score : 0.8720581494771374.
+2024-03-25 13:39:19,577 INFO     kb 
+
+2024-03-25 13:39:19,578 INFO     kb 
+2024-03-25 13:39:19,578 INFO     kb 
+2024-03-25 13:39:19,752 INFO     kb Raw Parameters : n_estimators = 623.742983942968, max_depth = 62.74815094099282, learning_rate = 0.23130744960100844, max_features = 238.86368308767968, min_samples_leaf = 12.965001117301542, min_samples_split = 125.75874280611873.
+2024-03-25 13:39:19,753 INFO     kb 
+
+2024-03-25 13:39:19,753 INFO     kb Changed Parameters : n_estimators = 624, max_depth = 63, learning_rate = 0.23130744960100844, max_features = 239, min_samples_leaf = 13, min_samples_split = 126.
+2024-03-25 13:39:19,754 INFO     kb 
+
+2024-03-25 13:42:52,618 INFO     kb Score : 0.951752467969126.
+2024-03-25 13:42:52,619 INFO     kb 
+
+2024-03-25 13:42:52,619 INFO     kb | [95m19       [0m | [95m0.9518   [0m | [95m0.2313   [0m | [95m62.75    [0m | [95m238.9    [0m | [95m12.97    [0m | [95m125.8    [0m | [95m623.7    [0m |
+
+2024-03-25 13:42:52,620 INFO     kb 
+2024-03-25 13:42:52,652 INFO     kb Raw Parameters : n_estimators = 1589.7951253024762, max_depth = 89.81323794812829, learning_rate = 0.02921249898025933, max_features = 67.65759768697193, min_samples_leaf = 83.84664418275793, min_samples_split = 43.6667656583369.
+2024-03-25 13:42:52,653 INFO     kb 
+
+2024-03-25 13:42:52,653 INFO     kb Changed Parameters : n_estimators = 1590, max_depth = 90, learning_rate = 0.02921249898025933, max_features = 68, min_samples_leaf = 84, min_samples_split = 44.
+2024-03-25 13:42:52,653 INFO     kb 
+
+2024-03-25 13:43:25,770 INFO     kb Score : 0.9243717883743559.
+2024-03-25 13:43:25,771 INFO     kb 
+
+2024-03-25 13:43:25,772 INFO     kb 
+2024-03-25 13:43:25,772 INFO     kb 
+2024-03-25 13:43:25,908 INFO     kb Raw Parameters : n_estimators = 1205.1273510931387, max_depth = 86.35045298444275, learning_rate = 0.07761430146262442, max_features = 124.97355301635154, min_samples_leaf = 22.28365981659798, min_samples_split = 43.767611632685664.
+2024-03-25 13:43:25,909 INFO     kb 
+
+2024-03-25 13:43:25,909 INFO     kb Changed Parameters : n_estimators = 1205, max_depth = 86, learning_rate = 0.07761430146262442, max_features = 125, min_samples_leaf = 22, min_samples_split = 44.
+2024-03-25 13:43:25,910 INFO     kb 
+
+2024-03-25 13:48:54,862 INFO     kb Score : 0.950138479794166.
+2024-03-25 13:48:54,862 INFO     kb 
+
+2024-03-25 13:48:54,863 INFO     kb 
+2024-03-25 13:48:54,863 INFO     kb 
+2024-03-25 13:48:54,899 INFO     kb Raw Parameters : n_estimators = 599.1059411918106, max_depth = 68.26489823177404, learning_rate = 0.27046499194211515, max_features = 139.69738874895503, min_samples_leaf = 91.55560955089186, min_samples_split = 79.32682398639038.
+2024-03-25 13:48:54,900 INFO     kb 
+
+2024-03-25 13:48:54,900 INFO     kb Changed Parameters : n_estimators = 599, max_depth = 68, learning_rate = 0.27046499194211515, max_features = 140, min_samples_leaf = 92, min_samples_split = 79.
+2024-03-25 13:48:54,900 INFO     kb 
+
+2024-03-25 13:49:39,499 INFO     kb Score : 0.941491890112192.
+2024-03-25 13:49:39,500 INFO     kb 
+
+2024-03-25 13:49:39,500 INFO     kb 
+2024-03-25 13:49:39,501 INFO     kb 
+2024-03-25 13:49:39,646 INFO     kb Raw Parameters : n_estimators = 1240.3054462477521, max_depth = 40.48872939144404, learning_rate = 0.27280916161958424, max_features = 22.729204666157365, min_samples_leaf = 60.38651994262234, min_samples_split = 133.0866475956716.
+2024-03-25 13:49:39,647 INFO     kb 
+
+2024-03-25 13:49:39,647 INFO     kb Changed Parameters : n_estimators = 1240, max_depth = 40, learning_rate = 0.27280916161958424, max_features = 23, min_samples_leaf = 60, min_samples_split = 133.
+2024-03-25 13:49:39,648 INFO     kb 
+
+2024-03-25 13:49:54,127 INFO     kb Score : 0.9267928840232876.
+2024-03-25 13:49:54,127 INFO     kb 
+
+2024-03-25 13:49:54,128 INFO     kb 
+2024-03-25 13:49:54,128 INFO     kb 
+2024-03-25 13:49:54,315 INFO     kb Raw Parameters : n_estimators = 1155.8017139126807, max_depth = 15.663442438387465, learning_rate = 0.32403415257685675, max_features = 219.9100317498922, min_samples_leaf = 22.123988923730984, min_samples_split = 139.04776569369528.
+2024-03-25 13:49:54,315 INFO     kb 
+
+2024-03-25 13:49:54,316 INFO     kb Changed Parameters : n_estimators = 1156, max_depth = 16, learning_rate = 0.32403415257685675, max_features = 220, min_samples_leaf = 22, min_samples_split = 139.
+2024-03-25 13:49:54,316 INFO     kb 
+
+2024-03-25 13:51:35,966 INFO     kb Score : 0.9475156832830707.
+2024-03-25 13:51:35,966 INFO     kb 
+
+2024-03-25 13:51:35,967 INFO     kb 
+2024-03-25 13:51:35,967 INFO     kb 
+2024-03-25 13:51:36,001 INFO     kb Raw Parameters : n_estimators = 3785.358919121124, max_depth = 61.94803777651017, learning_rate = 0.32182635869709136, max_features = 176.11796069730482, min_samples_leaf = 60.07392105083052, min_samples_split = 116.95995231437814.
+2024-03-25 13:51:36,002 INFO     kb 
+
+2024-03-25 13:51:36,002 INFO     kb Changed Parameters : n_estimators = 3785, max_depth = 62, learning_rate = 0.32182635869709136, max_features = 176, min_samples_leaf = 60, min_samples_split = 117.
+2024-03-25 13:51:36,002 INFO     kb 
+
+2024-03-25 14:05:18,708 INFO     kb Score : 0.8588577215590109.
+2024-03-25 14:05:18,709 INFO     kb 
+
+2024-03-25 14:05:18,710 INFO     kb 
+2024-03-25 14:05:18,710 INFO     kb 
+2024-03-25 14:05:18,936 INFO     kb Raw Parameters : n_estimators = 1155.0304472897399, max_depth = 5.0, learning_rate = 0.4005654286519534, max_features = 211.8930319634784, min_samples_leaf = 100.0, min_samples_split = 2.0.
+2024-03-25 14:05:18,937 INFO     kb 
+
+2024-03-25 14:05:18,937 INFO     kb Changed Parameters : n_estimators = 1155, max_depth = 5, learning_rate = 0.4005654286519534, max_features = 212, min_samples_leaf = 100, min_samples_split = 2.
+2024-03-25 14:05:18,938 INFO     kb 
+
+2024-03-25 14:05:53,927 INFO     kb Score : 0.9416072303400721.
+2024-03-25 14:05:53,927 INFO     kb 
+
+2024-03-25 14:05:53,928 INFO     kb 
+2024-03-25 14:05:53,928 INFO     kb 
+2024-03-25 14:05:54,092 INFO     kb Raw Parameters : n_estimators = 1271.5860459828577, max_depth = 92.31776138744988, learning_rate = 0.2006844326786298, max_features = 279.7463021857759, min_samples_leaf = 7.075751190012653, min_samples_split = 22.740297979271837.
+2024-03-25 14:05:54,093 INFO     kb 
+
+2024-03-25 14:05:54,093 INFO     kb Changed Parameters : n_estimators = 1272, max_depth = 92, learning_rate = 0.2006844326786298, max_features = 280, min_samples_leaf = 7, min_samples_split = 23.
+2024-03-25 14:05:54,094 INFO     kb 
+
+2024-03-25 14:15:07,386 INFO     kb Score : 0.9529053519096791.
+2024-03-25 14:15:07,386 INFO     kb 
+
+2024-03-25 14:15:07,387 INFO     kb | [95m27       [0m | [95m0.9529   [0m | [95m0.2007   [0m | [95m92.32    [0m | [95m279.7    [0m | [95m7.076    [0m | [95m22.74    [0m | [95m1.272e+03[0m |
+
+2024-03-25 14:15:07,387 INFO     kb 
+2024-03-25 14:15:07,556 INFO     kb Raw Parameters : n_estimators = 1380.493581957919, max_depth = 31.63035355221262, learning_rate = 0.5, max_features = 280.0, min_samples_leaf = 1.0, min_samples_split = 141.42670171187817.
+2024-03-25 14:15:07,556 INFO     kb 
+
+2024-03-25 14:15:07,557 INFO     kb Changed Parameters : n_estimators = 1380, max_depth = 32, learning_rate = 0.5, max_features = 280, min_samples_leaf = 1, min_samples_split = 141.
+2024-03-25 14:15:07,557 INFO     kb 
+
+2024-03-25 14:20:06,713 INFO     kb Score : 0.9503114228516942.
+2024-03-25 14:20:06,714 INFO     kb 
+
+2024-03-25 14:20:06,714 INFO     kb 
+2024-03-25 14:20:06,714 INFO     kb 
+2024-03-25 14:20:06,946 INFO     kb Raw Parameters : n_estimators = 1441.7027613383939, max_depth = 70.33663811885616, learning_rate = 0.4454993456633541, max_features = 226.2893217261768, min_samples_leaf = 17.727277891454087, min_samples_split = 4.899616640250883.
+2024-03-25 14:20:06,946 INFO     kb 
+
+2024-03-25 14:20:06,947 INFO     kb Changed Parameters : n_estimators = 1442, max_depth = 70, learning_rate = 0.4454993456633541, max_features = 226, min_samples_leaf = 18, min_samples_split = 5.
+2024-03-25 14:20:06,947 INFO     kb 
+
+2024-03-25 14:27:05,402 INFO     kb Score : 0.9447487937234819.
+2024-03-25 14:27:05,402 INFO     kb 
+
+2024-03-25 14:27:05,403 INFO     kb 
+2024-03-25 14:27:05,403 INFO     kb 
+2024-03-25 14:27:05,438 INFO     kb Raw Parameters : n_estimators = 1469.8133126135606, max_depth = 96.87211365799496, learning_rate = 0.3451408432759641, max_features = 174.15743311325062, min_samples_leaf = 93.16911754180664, min_samples_split = 14.082321178807167.
+2024-03-25 14:27:05,438 INFO     kb 
+
+2024-03-25 14:27:05,438 INFO     kb Changed Parameters : n_estimators = 1470, max_depth = 97, learning_rate = 0.3451408432759641, max_features = 174, min_samples_leaf = 93, min_samples_split = 14.
+2024-03-25 14:27:05,438 INFO     kb 
+
+2024-03-25 14:30:12,554 INFO     kb Score : 0.9377739096786136.
+2024-03-25 14:30:12,555 INFO     kb 
+
+2024-03-25 14:30:12,555 INFO     kb 
+2024-03-25 14:30:12,556 INFO     kb 
+2024-03-25 14:30:12,775 INFO     kb Raw Parameters : n_estimators = 1467.8206374648555, max_depth = 5.0, learning_rate = 0.5, max_features = 126.21429568652391, min_samples_leaf = 1.0, min_samples_split = 150.0.
+2024-03-25 14:30:12,776 INFO     kb 
+
+2024-03-25 14:30:12,776 INFO     kb Changed Parameters : n_estimators = 1468, max_depth = 5, learning_rate = 0.5, max_features = 126, min_samples_leaf = 1, min_samples_split = 150.
+2024-03-25 14:30:12,776 INFO     kb 
+
+2024-03-25 14:30:49,377 INFO     kb Score : 0.9469392512808374.
+2024-03-25 14:30:49,378 INFO     kb 
+
+2024-03-25 14:30:49,378 INFO     kb 
+2024-03-25 14:30:49,379 INFO     kb 
+2024-03-25 14:30:49,618 INFO     kb Raw Parameters : n_estimators = 1550.4753691589024, max_depth = 7.377852979918811, learning_rate = 0.23466391017431687, max_features = 272.87872372121205, min_samples_leaf = 46.85526173315005, min_samples_split = 143.79484066614367.
+2024-03-25 14:30:49,618 INFO     kb 
+
+2024-03-25 14:30:49,619 INFO     kb Changed Parameters : n_estimators = 1550, max_depth = 7, learning_rate = 0.23466391017431687, max_features = 273, min_samples_leaf = 47, min_samples_split = 144.
+2024-03-25 14:30:49,619 INFO     kb 
+
+2024-03-25 14:32:08,466 INFO     kb Score : 0.9482073558327518.
+2024-03-25 14:32:08,467 INFO     kb 
+
+2024-03-25 14:32:08,467 INFO     kb 
+2024-03-25 14:32:08,468 INFO     kb 
+2024-03-25 14:32:08,690 INFO     kb Raw Parameters : n_estimators = 427.5976761857444, max_depth = 99.21550939881121, learning_rate = 0.3676939582639348, max_features = 108.36838299101973, min_samples_leaf = 7.071075973645473, min_samples_split = 47.50645102188412.
+2024-03-25 14:32:08,690 INFO     kb 
+
+2024-03-25 14:32:08,691 INFO     kb Changed Parameters : n_estimators = 428, max_depth = 99, learning_rate = 0.3676939582639348, max_features = 108, min_samples_leaf = 7, min_samples_split = 48.
+2024-03-25 14:32:08,692 INFO     kb 
+
+2024-03-25 14:34:34,804 INFO     kb Score : 0.9501384947462307.
+2024-03-25 14:34:34,805 INFO     kb 
+
+2024-03-25 14:34:34,805 INFO     kb 
+2024-03-25 14:34:34,806 INFO     kb 
+2024-03-25 14:34:34,851 INFO     kb Raw Parameters : n_estimators = 1387.1736785759083, max_depth = 39.950516784962545, learning_rate = 0.44040164276203275, max_features = 273.1694702413431, min_samples_leaf = 2.3575739817370778, min_samples_split = 129.18663088774053.
+2024-03-25 14:34:34,851 INFO     kb 
+
+2024-03-25 14:34:34,851 INFO     kb Changed Parameters : n_estimators = 1387, max_depth = 40, learning_rate = 0.44040164276203275, max_features = 273, min_samples_leaf = 2, min_samples_split = 129.
+2024-03-25 14:34:34,852 INFO     kb 
+
+2024-03-25 14:40:30,465 INFO     kb Score : 0.9323260301717218.
+2024-03-25 14:40:30,466 INFO     kb 
+
+2024-03-25 14:40:30,467 INFO     kb 
+2024-03-25 14:40:30,467 INFO     kb 
+2024-03-25 14:40:30,531 INFO     kb Raw Parameters : n_estimators = 622.2813448307205, max_depth = 58.31787381706117, learning_rate = 0.14843749864150743, max_features = 253.17778650804436, min_samples_leaf = 15.6438726403878, min_samples_split = 128.0716581518576.
+2024-03-25 14:40:30,532 INFO     kb 
+
+2024-03-25 14:40:30,532 INFO     kb Changed Parameters : n_estimators = 622, max_depth = 58, learning_rate = 0.14843749864150743, max_features = 253, min_samples_leaf = 16, min_samples_split = 128.
+2024-03-25 14:40:30,532 INFO     kb 
+
+2024-03-25 14:43:57,761 INFO     kb Score : 0.9517813229621824.
+2024-03-25 14:43:57,761 INFO     kb 
+
+2024-03-25 14:43:57,762 INFO     kb 
+2024-03-25 14:43:57,762 INFO     kb 
+2024-03-25 14:43:57,811 INFO     kb Raw Parameters : n_estimators = 1317.6527907022305, max_depth = 68.18869544761623, learning_rate = 0.2746728903168842, max_features = 159.87277793119137, min_samples_leaf = 79.67360465446266, min_samples_split = 72.68762214769981.
+2024-03-25 14:43:57,812 INFO     kb 
+
+2024-03-25 14:43:57,812 INFO     kb Changed Parameters : n_estimators = 1318, max_depth = 68, learning_rate = 0.2746728903168842, max_features = 160, min_samples_leaf = 80, min_samples_split = 73.
+2024-03-25 14:43:57,813 INFO     kb 
+
+2024-03-25 14:47:18,060 INFO     kb Score : 0.9410019433447824.
+2024-03-25 14:47:18,061 INFO     kb 
+
+2024-03-25 14:47:18,062 INFO     kb 
+2024-03-25 14:47:18,062 INFO     kb 
+2024-03-25 14:47:18,115 INFO     kb Raw Parameters : n_estimators = 1474.6722694182727, max_depth = 97.41991851774463, learning_rate = 0.1329755644634442, max_features = 176.76283930560163, min_samples_leaf = 98.19152267953956, min_samples_split = 3.935256003779666.
+2024-03-25 14:47:18,116 INFO     kb 
+
+2024-03-25 14:47:18,116 INFO     kb Changed Parameters : n_estimators = 1475, max_depth = 97, learning_rate = 0.1329755644634442, max_features = 177, min_samples_leaf = 98, min_samples_split = 4.
+2024-03-25 14:47:18,116 INFO     kb 
+
+2024-03-25 14:49:55,689 INFO     kb Score : 0.9421836822783917.
+2024-03-25 14:49:55,690 INFO     kb 
+
+2024-03-25 14:49:55,690 INFO     kb 
+2024-03-25 14:49:55,691 INFO     kb 
+2024-03-25 14:49:55,757 INFO     kb Raw Parameters : n_estimators = 1543.3712179354293, max_depth = 15.044884613755992, learning_rate = 0.06545170868035846, max_features = 181.68040663166033, min_samples_leaf = 24.595259128382036, min_samples_split = 31.292657588624667.
+2024-03-25 14:49:55,757 INFO     kb 
+
+2024-03-25 14:49:55,758 INFO     kb Changed Parameters : n_estimators = 1543, max_depth = 15, learning_rate = 0.06545170868035846, max_features = 182, min_samples_leaf = 25, min_samples_split = 31.
+2024-03-25 14:49:55,758 INFO     kb 
+
+2024-03-25 14:51:50,944 INFO     kb Score : 0.9516371601373866.
+2024-03-25 14:51:50,945 INFO     kb 
+
+2024-03-25 14:51:50,945 INFO     kb 
+2024-03-25 14:51:50,945 INFO     kb 
+2024-03-25 14:51:50,994 INFO     kb Raw Parameters : n_estimators = 2494.912381434109, max_depth = 98.45588957791206, learning_rate = 0.42721095955410104, max_features = 204.87234705763473, min_samples_leaf = 63.46571982224425, min_samples_split = 102.46958612964791.
+2024-03-25 14:51:50,994 INFO     kb 
+
+2024-03-25 14:51:50,995 INFO     kb Changed Parameters : n_estimators = 2495, max_depth = 98, learning_rate = 0.42721095955410104, max_features = 205, min_samples_leaf = 63, min_samples_split = 102.
+2024-03-25 14:51:50,995 INFO     kb 
+
+2024-03-25 15:02:35,486 INFO     kb Score : 0.8819445818165398.
+2024-03-25 15:02:35,487 INFO     kb 
+
+2024-03-25 15:02:35,487 INFO     kb 
+2024-03-25 15:02:35,488 INFO     kb 
+2024-03-25 15:02:35,562 INFO     kb Raw Parameters : n_estimators = 2513.543569903028, max_depth = 97.43207751636909, learning_rate = 0.16384242582435987, max_features = 235.418311565676, min_samples_leaf = 5.515499889578504, min_samples_split = 141.80355459262458.
+2024-03-25 15:02:35,562 INFO     kb 
+
+2024-03-25 15:02:35,562 INFO     kb Changed Parameters : n_estimators = 2514, max_depth = 97, learning_rate = 0.16384242582435987, max_features = 235, min_samples_leaf = 6, min_samples_split = 142.
+2024-03-25 15:02:35,563 INFO     kb 
+
+2024-03-25 15:15:53,130 INFO     kb Score : 0.9531359401610393.
+2024-03-25 15:15:53,130 INFO     kb 
+
+2024-03-25 15:15:53,131 INFO     kb | [95m40       [0m | [95m0.9531   [0m | [95m0.1638   [0m | [95m97.43    [0m | [95m235.4    [0m | [95m5.515    [0m | [95m141.8    [0m | [95m2.514e+03[0m |
+
+2024-03-25 15:15:53,131 INFO     kb 
+2024-03-25 15:15:53,419 INFO     kb Raw Parameters : n_estimators = 2520.6591977941766, max_depth = 78.68713947731949, learning_rate = 0.42089368974618047, max_features = 240.54972625049356, min_samples_leaf = 74.6799007897557, min_samples_split = 146.2099080996295.
+2024-03-25 15:15:53,419 INFO     kb 
+
+2024-03-25 15:15:53,420 INFO     kb Changed Parameters : n_estimators = 2521, max_depth = 79, learning_rate = 0.42089368974618047, max_features = 241, min_samples_leaf = 75, min_samples_split = 146.
+2024-03-25 15:15:53,420 INFO     kb 
+
+2024-03-25 15:27:00,235 INFO     kb Score : 0.891114037728595.
+2024-03-25 15:27:00,236 INFO     kb 
+
+2024-03-25 15:27:00,236 INFO     kb 
+2024-03-25 15:27:00,237 INFO     kb 
+2024-03-25 15:27:00,307 INFO     kb Raw Parameters : n_estimators = 599.021526593818, max_depth = 57.14556692743466, learning_rate = 0.3347568358606754, max_features = 142.01456574575806, min_samples_leaf = 99.8409718388325, min_samples_split = 86.26623375531119.
+2024-03-25 15:27:00,307 INFO     kb 
+
+2024-03-25 15:27:00,308 INFO     kb Changed Parameters : n_estimators = 599, max_depth = 57, learning_rate = 0.3347568358606754, max_features = 142, min_samples_leaf = 100, min_samples_split = 86.
+2024-03-25 15:27:00,308 INFO     kb 
+
+2024-03-25 15:27:36,783 INFO     kb Score : 0.9413478369358713.
+2024-03-25 15:27:36,784 INFO     kb 
+
+2024-03-25 15:27:36,785 INFO     kb 
+2024-03-25 15:27:36,785 INFO     kb 
+2024-03-25 15:27:36,935 INFO     kb Raw Parameters : n_estimators = 2487.969370027563, max_depth = 63.44356573587372, learning_rate = 0.25940300706224895, max_features = 178.42348333595584, min_samples_leaf = 13.96278629085199, min_samples_split = 127.65265066071872.
+2024-03-25 15:27:36,936 INFO     kb 
+
+2024-03-25 15:27:36,936 INFO     kb Changed Parameters : n_estimators = 2488, max_depth = 63, learning_rate = 0.25940300706224895, max_features = 178, min_samples_leaf = 14, min_samples_split = 128.
+2024-03-25 15:27:36,937 INFO     kb 
+
+2024-03-25 15:38:07,667 INFO     kb Score : 0.9451234326591521.
+2024-03-25 15:38:07,668 INFO     kb 
+
+2024-03-25 15:38:07,669 INFO     kb 
+2024-03-25 15:38:07,669 INFO     kb 
+2024-03-25 15:38:07,723 INFO     kb Raw Parameters : n_estimators = 918.5873386613546, max_depth = 66.81601892397482, learning_rate = 0.4763491318398533, max_features = 79.82976686144819, min_samples_leaf = 50.76929273611132, min_samples_split = 55.09939137412916.
+2024-03-25 15:38:07,724 INFO     kb 
+
+2024-03-25 15:38:07,726 INFO     kb Changed Parameters : n_estimators = 919, max_depth = 67, learning_rate = 0.4763491318398533, max_features = 80, min_samples_leaf = 51, min_samples_split = 55.
+2024-03-25 15:38:07,728 INFO     kb 
+
+2024-03-25 15:39:13,804 INFO     kb Score : 0.940771357585433.
+2024-03-25 15:39:13,805 INFO     kb 
+
+2024-03-25 15:39:13,805 INFO     kb 
+2024-03-25 15:39:13,806 INFO     kb 
+2024-03-25 15:39:13,945 INFO     kb Raw Parameters : n_estimators = 633.679152243631, max_depth = 25.105459214518078, learning_rate = 0.4995811413317086, max_features = 243.24321862155858, min_samples_leaf = 36.62125893717302, min_samples_split = 65.7711640796517.
+2024-03-25 15:39:13,945 INFO     kb 
+
+2024-03-25 15:39:13,945 INFO     kb Changed Parameters : n_estimators = 634, max_depth = 25, learning_rate = 0.4995811413317086, max_features = 243, min_samples_leaf = 37, min_samples_split = 66.
+2024-03-25 15:39:13,946 INFO     kb 
+
+2024-03-25 15:40:40,836 INFO     kb Score : 0.944575810793781.
+2024-03-25 15:40:40,837 INFO     kb 
+
+2024-03-25 15:40:40,837 INFO     kb 
+2024-03-25 15:40:40,838 INFO     kb 
+2024-03-25 15:40:40,938 INFO     kb Raw Parameters : n_estimators = 598.5732651057606, max_depth = 9.012003899283158, learning_rate = 0.27045561891811115, max_features = 220.21124107464948, min_samples_leaf = 48.100644847864764, min_samples_split = 118.46092339034357.
+2024-03-25 15:40:40,938 INFO     kb 
+
+2024-03-25 15:40:40,938 INFO     kb Changed Parameters : n_estimators = 599, max_depth = 9, learning_rate = 0.27045561891811115, max_features = 220, min_samples_leaf = 48, min_samples_split = 118.
+2024-03-25 15:40:40,939 INFO     kb 
+
+2024-03-25 15:41:11,371 INFO     kb Score : 0.9474003006910072.
+2024-03-25 15:41:11,372 INFO     kb 
+
+2024-03-25 15:41:11,373 INFO     kb 
+2024-03-25 15:41:11,373 INFO     kb 
+2024-03-25 15:41:11,480 INFO     kb Raw Parameters : n_estimators = 570.1940765353991, max_depth = 51.01714093963771, learning_rate = 0.02167815992857692, max_features = 273.4869357483915, min_samples_leaf = 21.733388565088294, min_samples_split = 95.14100961161333.
+2024-03-25 15:41:11,481 INFO     kb 
+
+2024-03-25 15:41:11,481 INFO     kb Changed Parameters : n_estimators = 570, max_depth = 51, learning_rate = 0.02167815992857692, max_features = 273, min_samples_leaf = 22, min_samples_split = 95.
+2024-03-25 15:41:11,481 INFO     kb 
+
+2024-03-25 15:43:35,588 INFO     kb Score : 0.9510895980802746.
+2024-03-25 15:43:35,589 INFO     kb 
+
+2024-03-25 15:43:35,589 INFO     kb 
+2024-03-25 15:43:35,589 INFO     kb 
+2024-03-25 15:43:35,784 INFO     kb Raw Parameters : n_estimators = 601.8217322553552, max_depth = 87.27893598569132, learning_rate = 0.05919647267923058, max_features = 248.73381134957924, min_samples_leaf = 74.94344335588437, min_samples_split = 92.3092331500214.
+2024-03-25 15:43:35,785 INFO     kb 
+
+2024-03-25 15:43:35,785 INFO     kb Changed Parameters : n_estimators = 602, max_depth = 87, learning_rate = 0.05919647267923058, max_features = 249, min_samples_leaf = 75, min_samples_split = 92.
+2024-03-25 15:43:35,786 INFO     kb 
+
+2024-03-25 15:45:49,640 INFO     kb Score : 0.9472274548219.
+2024-03-25 15:45:49,641 INFO     kb 
+
+2024-03-25 15:45:49,642 INFO     kb 
+2024-03-25 15:45:49,642 INFO     kb 
+2024-03-25 15:45:49,730 INFO     kb Raw Parameters : n_estimators = 603.2870012893131, max_depth = 57.73918901838658, learning_rate = 0.10171024975854066, max_features = 194.77802242001158, min_samples_leaf = 20.762070119978663, min_samples_split = 54.878823188223116.
+2024-03-25 15:45:49,730 INFO     kb 
+
+2024-03-25 15:45:49,730 INFO     kb Changed Parameters : n_estimators = 603, max_depth = 58, learning_rate = 0.10171024975854066, max_features = 195, min_samples_leaf = 21, min_samples_split = 55.
+2024-03-25 15:45:49,730 INFO     kb 
+
+2024-03-25 15:48:23,392 INFO     kb Score : 0.9525882759314843.
+2024-03-25 15:48:23,392 INFO     kb 
+
+2024-03-25 15:48:23,393 INFO     kb 
+2024-03-25 15:48:23,393 INFO     kb 
+2024-03-25 15:48:23,445 INFO     kb Raw Parameters : n_estimators = 620.4474199345566, max_depth = 31.019135132293517, learning_rate = 0.4787138494148681, max_features = 242.06254408601788, min_samples_leaf = 30.991921931775828, min_samples_split = 60.76429939595291.
+2024-03-25 15:48:23,445 INFO     kb 
+
+2024-03-25 15:48:23,445 INFO     kb Changed Parameters : n_estimators = 620, max_depth = 31, learning_rate = 0.4787138494148681, max_features = 242, min_samples_leaf = 31, min_samples_split = 61.
+2024-03-25 15:48:23,446 INFO     kb 
+
+2024-03-25 15:50:10,648 INFO     kb Score : 0.9462474715746918.
+2024-03-25 15:50:10,649 INFO     kb 
+
+2024-03-25 15:50:10,649 INFO     kb 
+2024-03-25 15:50:10,650 INFO     kb 
+2024-03-25 15:50:10,701 INFO     kb Raw Parameters : n_estimators = 1474.1603746061153, max_depth = 86.23671997411338, learning_rate = 0.21220711550373852, max_features = 179.59241512556602, min_samples_leaf = 92.10581494591375, min_samples_split = 4.935530345293033.
+2024-03-25 15:50:10,701 INFO     kb 
+
+2024-03-25 15:50:10,702 INFO     kb Changed Parameters : n_estimators = 1474, max_depth = 86, learning_rate = 0.21220711550373852, max_features = 180, min_samples_leaf = 92, min_samples_split = 5.
+2024-03-25 15:50:10,702 INFO     kb 
+
+2024-03-25 15:53:36,694 INFO     kb Score : 0.9416071780078452.
+2024-03-25 15:53:36,694 INFO     kb 
+
+2024-03-25 15:53:36,695 INFO     kb 
+2024-03-25 15:53:36,695 INFO     kb 
+2024-03-25 15:53:36,812 INFO     kb Raw Parameters : n_estimators = 2464.4636052660153, max_depth = 97.64656615826853, learning_rate = 0.3218268430850024, max_features = 170.3034563243996, min_samples_leaf = 27.916373131075282, min_samples_split = 148.41567593527844.
+2024-03-25 15:53:36,812 INFO     kb 
+
+2024-03-25 15:53:36,813 INFO     kb Changed Parameters : n_estimators = 2464, max_depth = 98, learning_rate = 0.3218268430850024, max_features = 170, min_samples_leaf = 28, min_samples_split = 148.
+2024-03-25 15:53:36,813 INFO     kb 
+
+2024-03-25 16:05:36,397 INFO     kb Score : 0.9422989651900231.
+2024-03-25 16:05:36,398 INFO     kb 
+
+2024-03-25 16:05:36,398 INFO     kb 
+2024-03-25 16:05:36,399 INFO     kb 
+2024-03-25 16:05:36,458 INFO     kb Raw Parameters : n_estimators = 574.1905707686282, max_depth = 49.28040548002427, learning_rate = 0.07196590773433534, max_features = 271.6306173352699, min_samples_leaf = 24.107701463696053, min_samples_split = 94.782506486668.
+2024-03-25 16:05:36,459 INFO     kb 
+
+2024-03-25 16:05:36,459 INFO     kb Changed Parameters : n_estimators = 574, max_depth = 49, learning_rate = 0.07196590773433534, max_features = 272, min_samples_leaf = 24, min_samples_split = 95.
+2024-03-25 16:05:36,459 INFO     kb 
+
+2024-03-25 16:08:09,637 INFO     kb Score : 0.9528476743197066.
+2024-03-25 16:08:09,638 INFO     kb 
+
+2024-03-25 16:08:09,638 INFO     kb 
+2024-03-25 16:08:09,639 INFO     kb 
+2024-03-25 16:08:09,791 INFO     kb Raw Parameters : n_estimators = 1224.747912408428, max_depth = 62.80723334144135, learning_rate = 0.21776820893247648, max_features = 234.12210141215434, min_samples_leaf = 34.79909342917265, min_samples_split = 65.77620261701524.
+2024-03-25 16:08:09,791 INFO     kb 
+
+2024-03-25 16:08:09,792 INFO     kb Changed Parameters : n_estimators = 1225, max_depth = 63, learning_rate = 0.21776820893247648, max_features = 234, min_samples_leaf = 35, min_samples_split = 66.
+2024-03-25 16:08:09,792 INFO     kb 
+
+2024-03-25 16:14:18,355 INFO     kb Score : 0.9462187062940243.
+2024-03-25 16:14:18,356 INFO     kb 
+
+2024-03-25 16:14:18,357 INFO     kb 
+2024-03-25 16:14:18,357 INFO     kb 
+2024-03-25 16:14:18,497 INFO     kb Raw Parameters : n_estimators = 1155.5295654080574, max_depth = 53.623758530093255, learning_rate = 0.19603972727443847, max_features = 153.84717001052462, min_samples_leaf = 64.98890039858216, min_samples_split = 82.6890565893184.
+2024-03-25 16:14:18,497 INFO     kb 
+
+2024-03-25 16:14:18,497 INFO     kb Changed Parameters : n_estimators = 1156, max_depth = 54, learning_rate = 0.19603972727443847, max_features = 154, min_samples_leaf = 65, min_samples_split = 83.
+2024-03-25 16:14:18,498 INFO     kb 
+
+2024-03-25 16:17:25,789 INFO     kb Score : 0.9437688503484466.
+2024-03-25 16:17:25,790 INFO     kb 
+
+2024-03-25 16:17:25,790 INFO     kb 
+2024-03-25 16:17:25,791 INFO     kb 
+2024-03-25 16:17:25,990 INFO     kb Raw Parameters : n_estimators = 2528.7197917617277, max_depth = 100.0, learning_rate = 0.001, max_features = 180.24645570304367, min_samples_leaf = 31.544606003191177, min_samples_split = 150.0.
+2024-03-25 16:17:25,991 INFO     kb 
+
+2024-03-25 16:17:25,991 INFO     kb Changed Parameters : n_estimators = 2529, max_depth = 100, learning_rate = 0.001, max_features = 180, min_samples_leaf = 32, min_samples_split = 150.
+2024-03-25 16:17:25,992 INFO     kb 
+
+2024-03-25 16:24:08,273 INFO     kb Score : 0.9214608281943709.
+2024-03-25 16:24:08,274 INFO     kb 
+
+2024-03-25 16:24:08,275 INFO     kb 
+2024-03-25 16:24:08,275 INFO     kb 
+2024-03-25 16:24:08,521 INFO     kb Raw Parameters : n_estimators = 544.7645842276315, max_depth = 72.86676505956989, learning_rate = 0.26992441625500907, max_features = 197.9561638941562, min_samples_leaf = 19.98255569297426, min_samples_split = 110.58401491062709.
+2024-03-25 16:24:08,522 INFO     kb 
+
+2024-03-25 16:24:08,522 INFO     kb Changed Parameters : n_estimators = 545, max_depth = 73, learning_rate = 0.26992441625500907, max_features = 198, min_samples_leaf = 20, min_samples_split = 111.
+2024-03-25 16:24:08,523 INFO     kb 
+
+2024-03-25 16:27:06,034 INFO     kb Score : 0.9495620029357382.
+2024-03-25 16:27:06,035 INFO     kb 
+
+2024-03-25 16:27:06,035 INFO     kb 
+2024-03-25 16:27:06,035 INFO     kb 
+2024-03-25 16:27:06,153 INFO     kb Raw Parameters : n_estimators = 2457.5778399378273, max_depth = 88.35996787993584, learning_rate = 0.45205198704728555, max_features = 239.06538449835338, min_samples_leaf = 18.297868692747176, min_samples_split = 146.64403144035575.
+2024-03-25 16:27:06,154 INFO     kb 
+
+2024-03-25 16:27:06,154 INFO     kb Changed Parameters : n_estimators = 2458, max_depth = 88, learning_rate = 0.45205198704728555, max_features = 239, min_samples_leaf = 18, min_samples_split = 147.
+2024-03-25 16:27:06,154 INFO     kb 
+
+2024-03-25 16:36:34,178 INFO     kb Score : 0.9456710694765883.
+2024-03-25 16:36:34,178 INFO     kb 
+
+2024-03-25 16:36:34,179 INFO     kb 
+2024-03-25 16:36:34,179 INFO     kb 
+2024-03-25 16:36:34,401 INFO     kb Raw Parameters : n_estimators = 1537.9235329440305, max_depth = 8.766454611860802, learning_rate = 0.4987408274253464, max_features = 210.38254488597474, min_samples_leaf = 47.284924183338, min_samples_split = 97.80737336103799.
+2024-03-25 16:36:34,402 INFO     kb 
+
+2024-03-25 16:36:34,402 INFO     kb Changed Parameters : n_estimators = 1538, max_depth = 9, learning_rate = 0.4987408274253464, max_features = 210, min_samples_leaf = 47, min_samples_split = 98.
+2024-03-25 16:36:34,402 INFO     kb 
+
+2024-03-25 16:37:51,677 INFO     kb Score : 0.942904162472924.
+2024-03-25 16:37:51,678 INFO     kb 
+
+2024-03-25 16:37:51,678 INFO     kb 
+2024-03-25 16:37:51,679 INFO     kb 
+2024-03-25 16:37:51,781 INFO     kb Raw Parameters : n_estimators = 1313.0021236502955, max_depth = 11.425806392290927, learning_rate = 0.18732070467589745, max_features = 256.8248205273508, min_samples_leaf = 10.289725040023503, min_samples_split = 143.14735884555407.
+2024-03-25 16:37:51,782 INFO     kb 
+
+2024-03-25 16:37:51,782 INFO     kb Changed Parameters : n_estimators = 1313, max_depth = 11, learning_rate = 0.18732070467589745, max_features = 257, min_samples_leaf = 10, min_samples_split = 143.
+2024-03-25 16:37:51,782 INFO     kb 
+
+2024-03-25 16:39:24,978 INFO     kb Score : 0.9504554984561121.
+2024-03-25 16:39:24,979 INFO     kb 
+
+2024-03-25 16:39:24,979 INFO     kb 
+2024-03-25 16:39:24,980 INFO     kb 
+2024-03-25 16:39:25,156 INFO     kb Raw Parameters : n_estimators = 1300.1724679191439, max_depth = 64.93228261939268, learning_rate = 0.41415203479601737, max_features = 271.4916186676856, min_samples_leaf = 73.22168393749065, min_samples_split = 80.76624451311946.
+2024-03-25 16:39:25,157 INFO     kb 
+
+2024-03-25 16:39:25,157 INFO     kb Changed Parameters : n_estimators = 1300, max_depth = 65, learning_rate = 0.41415203479601737, max_features = 271, min_samples_leaf = 73, min_samples_split = 81.
+2024-03-25 16:39:25,157 INFO     kb 
+
+2024-03-25 16:45:43,678 INFO     kb Score : 0.9390132713779575.
+2024-03-25 16:45:43,679 INFO     kb 
+
+2024-03-25 16:45:43,679 INFO     kb 
+2024-03-25 16:45:43,680 INFO     kb 
+2024-03-25 16:45:43,867 INFO     kb Raw Parameters : n_estimators = 1289.0415269243144, max_depth = 19.263990934169474, learning_rate = 0.3488777676522409, max_features = 241.52430443034453, min_samples_leaf = 5.361479540208235, min_samples_split = 37.52740890760642.
+2024-03-25 16:45:43,867 INFO     kb 
+
+2024-03-25 16:45:43,868 INFO     kb Changed Parameters : n_estimators = 1289, max_depth = 19, learning_rate = 0.3488777676522409, max_features = 242, min_samples_leaf = 5, min_samples_split = 38.
+2024-03-25 16:45:43,868 INFO     kb 
+
+2024-03-25 16:48:15,887 INFO     kb Score : 0.9514066491383611.
+2024-03-25 16:48:15,887 INFO     kb 
+
+2024-03-25 16:48:15,888 INFO     kb 
+2024-03-25 16:48:15,888 INFO     kb 
+2024-03-25 16:48:16,010 INFO     kb Raw Parameters : n_estimators = 1301.5980923758134, max_depth = 93.64029897417791, learning_rate = 0.281730371320402, max_features = 199.24832618177376, min_samples_leaf = 22.48305230652941, min_samples_split = 39.269781999331784.
+2024-03-25 16:48:16,010 INFO     kb 
+
+2024-03-25 16:48:16,011 INFO     kb Changed Parameters : n_estimators = 1302, max_depth = 94, learning_rate = 0.281730371320402, max_features = 199, min_samples_leaf = 22, min_samples_split = 39.
+2024-03-25 16:48:16,011 INFO     kb 
+
+2024-03-25 16:56:06,333 INFO     kb Score : 0.8741910017128337.
+2024-03-25 16:56:06,334 INFO     kb 
+
+2024-03-25 16:56:06,334 INFO     kb 
+2024-03-25 16:56:06,334 INFO     kb 
+2024-03-25 16:56:06,468 INFO     kb Raw Parameters : n_estimators = 1213.5009128297866, max_depth = 9.22349813510899, learning_rate = 0.17263017459710953, max_features = 233.8813565186208, min_samples_leaf = 7.8366811200389765, min_samples_split = 18.832833594390046.
+2024-03-25 16:56:06,469 INFO     kb 
+
+2024-03-25 16:56:06,469 INFO     kb Changed Parameters : n_estimators = 1214, max_depth = 9, learning_rate = 0.17263017459710953, max_features = 234, min_samples_leaf = 8, min_samples_split = 19.
+2024-03-25 16:56:06,469 INFO     kb 
+
+2024-03-25 16:57:15,791 INFO     kb Score : 0.9509742952325566.
+2024-03-25 16:57:15,792 INFO     kb 
+
+2024-03-25 16:57:15,792 INFO     kb 
+2024-03-25 16:57:15,793 INFO     kb 
+2024-03-25 16:57:15,910 INFO     kb Raw Parameters : n_estimators = 1221.6678857743236, max_depth = 5.311188510170672, learning_rate = 0.247779696224773, max_features = 192.4909658662495, min_samples_leaf = 4.57065391405016, min_samples_split = 86.4213867472133.
+2024-03-25 16:57:15,910 INFO     kb 
+
+2024-03-25 16:57:15,910 INFO     kb Changed Parameters : n_estimators = 1222, max_depth = 5, learning_rate = 0.247779696224773, max_features = 192, min_samples_leaf = 5, min_samples_split = 86.
+2024-03-25 16:57:15,911 INFO     kb 
+
+2024-03-25 16:57:52,589 INFO     kb Score : 0.9483227035366643.
+2024-03-25 16:57:52,590 INFO     kb 
+
+2024-03-25 16:57:52,591 INFO     kb 
+2024-03-25 16:57:52,591 INFO     kb 
+2024-03-25 16:57:52,760 INFO     kb Raw Parameters : n_estimators = 1244.2559963644346, max_depth = 17.502185087364367, learning_rate = 0.4595920127023513, max_features = 258.02889714058773, min_samples_leaf = 18.220703482778877, min_samples_split = 102.87682357430529.
+2024-03-25 16:57:52,760 INFO     kb 
+
+2024-03-25 16:57:52,761 INFO     kb Changed Parameters : n_estimators = 1244, max_depth = 18, learning_rate = 0.4595920127023513, max_features = 258, min_samples_leaf = 18, min_samples_split = 103.
+2024-03-25 16:57:52,761 INFO     kb 
+
+2024-03-25 17:00:08,557 INFO     kb Score : 0.9469104386519648.
+2024-03-25 17:00:08,557 INFO     kb 
+
+2024-03-25 17:00:08,558 INFO     kb 
+2024-03-25 17:00:08,558 INFO     kb 
+2024-03-25 17:00:08,756 INFO     kb Raw Parameters : n_estimators = 1168.7677257429589, max_depth = 14.088536636994935, learning_rate = 0.0012359719295154952, max_features = 261.7519260759691, min_samples_leaf = 46.87962272666723, min_samples_split = 75.3181198407631.
+2024-03-25 17:00:08,756 INFO     kb 
+
+2024-03-25 17:00:08,757 INFO     kb Changed Parameters : n_estimators = 1169, max_depth = 14, learning_rate = 0.0012359719295154952, max_features = 262, min_samples_leaf = 47, min_samples_split = 75.
+2024-03-25 17:00:08,757 INFO     kb 
+
+2024-03-25 17:01:41,418 INFO     kb Score : 0.8950312319975583.
+2024-03-25 17:01:41,419 INFO     kb 
+
+2024-03-25 17:01:41,419 INFO     kb 
+2024-03-25 17:01:41,419 INFO     kb 
+2024-03-25 17:01:41,617 INFO     kb Raw Parameters : n_estimators = 1163.108870524445, max_depth = 27.255681470983266, learning_rate = 0.14782127968828246, max_features = 147.65547197537177, min_samples_leaf = 4.101621788416468, min_samples_split = 18.99082479543783.
+2024-03-25 17:01:41,618 INFO     kb 
+
+2024-03-25 17:01:41,619 INFO     kb Changed Parameters : n_estimators = 1163, max_depth = 27, learning_rate = 0.14782127968828246, max_features = 148, min_samples_leaf = 4, min_samples_split = 19.
+2024-03-25 17:01:41,619 INFO     kb 
+
+2024-03-25 17:04:01,876 INFO     kb Score : 0.9527035987152886.
+2024-03-25 17:04:01,877 INFO     kb 
+
+2024-03-25 17:04:01,877 INFO     kb 
+2024-03-25 17:04:01,878 INFO     kb 
+2024-03-25 17:04:01,982 INFO     kb Raw Parameters : n_estimators = 1204.9188696269885, max_depth = 9.346396819864331, learning_rate = 0.024648781456656336, max_features = 154.07054993624135, min_samples_leaf = 50.712275880422354, min_samples_split = 2.184841867537553.
+2024-03-25 17:04:01,982 INFO     kb 
+
+2024-03-25 17:04:01,982 INFO     kb Changed Parameters : n_estimators = 1205, max_depth = 9, learning_rate = 0.024648781456656336, max_features = 154, min_samples_leaf = 51, min_samples_split = 2.
+2024-03-25 17:04:01,983 INFO     kb 
+
+2024-03-25 17:04:51,129 INFO     kb Score : 0.9395609106874044.
+2024-03-25 17:04:51,130 INFO     kb 
+
+2024-03-25 17:04:51,131 INFO     kb 
+2024-03-25 17:04:51,132 INFO     kb 
+2024-03-25 17:04:51,302 INFO     kb Raw Parameters : n_estimators = 1165.204534008201, max_depth = 32.065151766317655, learning_rate = 0.22647497182981385, max_features = 115.29972454921717, min_samples_leaf = 12.07294438321132, min_samples_split = 86.26840364621754.
+2024-03-25 17:04:51,303 INFO     kb 
+
+2024-03-25 17:04:51,303 INFO     kb Changed Parameters : n_estimators = 1165, max_depth = 32, learning_rate = 0.22647497182981385, max_features = 115, min_samples_leaf = 12, min_samples_split = 86.
+2024-03-25 17:04:51,304 INFO     kb 
+
+2024-03-25 17:07:05,432 INFO     kb Score : 0.949100873781223.
+2024-03-25 17:07:05,433 INFO     kb 
+
+2024-03-25 17:07:05,433 INFO     kb 
+2024-03-25 17:07:05,434 INFO     kb 
+2024-03-25 17:07:05,660 INFO     kb Raw Parameters : n_estimators = 1254.415794473852, max_depth = 32.09664443368574, learning_rate = 0.039471130881281735, max_features = 278.255275805265, min_samples_leaf = 44.69871698912172, min_samples_split = 4.013175336132615.
+2024-03-25 17:07:05,661 INFO     kb 
+
+2024-03-25 17:07:05,661 INFO     kb Changed Parameters : n_estimators = 1254, max_depth = 32, learning_rate = 0.039471130881281735, max_features = 278, min_samples_leaf = 45, min_samples_split = 4.
+2024-03-25 17:07:05,662 INFO     kb 
+
+2024-03-25 17:10:44,571 INFO     kb Score : 0.9508877825856142.
+2024-03-25 17:10:44,572 INFO     kb 
+
+2024-03-25 17:10:44,572 INFO     kb 
+2024-03-25 17:10:44,572 INFO     kb 
+2024-03-25 17:10:44,663 INFO     kb Raw Parameters : n_estimators = 1166.4013350853065, max_depth = 53.050663857952784, learning_rate = 0.3072674551940964, max_features = 56.95860752805161, min_samples_leaf = 13.492636994854855, min_samples_split = 31.280480085504305.
+2024-03-25 17:10:44,663 INFO     kb 
+
+2024-03-25 17:10:44,663 INFO     kb Changed Parameters : n_estimators = 1166, max_depth = 53, learning_rate = 0.3072674551940964, max_features = 57, min_samples_leaf = 13, min_samples_split = 31.
+2024-03-25 17:10:44,664 INFO     kb 
+
+2024-03-25 17:13:02,338 INFO     kb Score : 0.945094687314571.
+2024-03-25 17:13:02,339 INFO     kb 
+
+2024-03-25 17:13:02,340 INFO     kb 
+2024-03-25 17:13:02,340 INFO     kb 
+2024-03-25 17:13:02,529 INFO     kb Raw Parameters : n_estimators = 1117.4181408743789, max_depth = 91.22335859174804, learning_rate = 0.40946191355488504, max_features = 109.89458205771666, min_samples_leaf = 38.19113735810262, min_samples_split = 22.83479617225539.
+2024-03-25 17:13:02,530 INFO     kb 
+
+2024-03-25 17:13:02,531 INFO     kb Changed Parameters : n_estimators = 1117, max_depth = 91, learning_rate = 0.40946191355488504, max_features = 110, min_samples_leaf = 38, min_samples_split = 23.
+2024-03-25 17:13:02,531 INFO     kb 
+
+2024-03-25 17:17:28,943 INFO     kb Score : 0.9395032306054212.
+2024-03-25 17:17:28,944 INFO     kb 
+
+2024-03-25 17:17:28,945 INFO     kb 
+2024-03-25 17:17:28,945 INFO     kb 
+2024-03-25 17:17:29,154 INFO     kb Raw Parameters : n_estimators = 1211.4100824928296, max_depth = 50.455136165085506, learning_rate = 0.26416524243170153, max_features = 155.61596524433455, min_samples_leaf = 15.740805659436186, min_samples_split = 136.6567530471241.
+2024-03-25 17:17:29,154 INFO     kb 
+
+2024-03-25 17:17:29,155 INFO     kb Changed Parameters : n_estimators = 1211, max_depth = 50, learning_rate = 0.26416524243170153, max_features = 156, min_samples_leaf = 16, min_samples_split = 137.
+2024-03-25 17:17:29,155 INFO     kb 
+
+2024-03-25 17:22:02,968 INFO     kb Score : 0.9468815936269515.
+2024-03-25 17:22:02,970 INFO     kb 
+
+2024-03-25 17:22:02,970 INFO     kb 
+2024-03-25 17:22:02,971 INFO     kb 
+2024-03-25 17:22:03,154 INFO     kb Raw Parameters : n_estimators = 1156.0261651258932, max_depth = 98.30558690696, learning_rate = 0.4307559644618098, max_features = 172.92569563041087, min_samples_leaf = 1.1150938244961872, min_samples_split = 88.8223386417107.
+2024-03-25 17:22:03,155 INFO     kb 
+
+2024-03-25 17:22:03,155 INFO     kb Changed Parameters : n_estimators = 1156, max_depth = 98, learning_rate = 0.4307559644618098, max_features = 173, min_samples_leaf = 1, min_samples_split = 89.
+2024-03-25 17:22:03,156 INFO     kb 
+
+2024-03-25 17:34:27,442 INFO     kb Score : 0.7693709893110928.
+2024-03-25 17:34:27,443 INFO     kb 
+
+2024-03-25 17:34:27,444 INFO     kb 
+2024-03-25 17:34:27,444 INFO     kb 
+2024-03-25 17:34:27,856 INFO     kb Raw Parameters : n_estimators = 1209.7337412006048, max_depth = 30.182569726608367, learning_rate = 0.001, max_features = 112.01283172745393, min_samples_leaf = 60.10861180621392, min_samples_split = 73.00458939702642.
+2024-03-25 17:34:27,857 INFO     kb 
+
+2024-03-25 17:34:27,858 INFO     kb Changed Parameters : n_estimators = 1210, max_depth = 30, learning_rate = 0.001, max_features = 112, min_samples_leaf = 60, min_samples_split = 73.
+2024-03-25 17:34:27,858 INFO     kb 
+
+2024-03-25 17:35:51,051 INFO     kb Score : 0.8984899012632925.
+2024-03-25 17:35:51,052 INFO     kb 
+
+2024-03-25 17:35:51,053 INFO     kb 
+2024-03-25 17:35:51,053 INFO     kb 
+2024-03-25 17:35:51,260 INFO     kb Raw Parameters : n_estimators = 535.0331970086513, max_depth = 88.46196286191697, learning_rate = 0.35658178967558074, max_features = 222.7408851463232, min_samples_leaf = 45.4943634512454, min_samples_split = 48.54475902989606.
+2024-03-25 17:35:51,260 INFO     kb 
+
+2024-03-25 17:35:51,261 INFO     kb Changed Parameters : n_estimators = 535, max_depth = 88, learning_rate = 0.35658178967558074, max_features = 223, min_samples_leaf = 45, min_samples_split = 49.
+2024-03-25 17:35:51,261 INFO     kb 
+
+2024-03-25 17:39:22,114 INFO     kb Score : 0.9442011668740893.
+2024-03-25 17:39:22,115 INFO     kb 
+
+2024-03-25 17:39:22,116 INFO     kb 
+2024-03-25 17:39:22,116 INFO     kb 
+2024-03-25 17:39:22,262 INFO     kb Raw Parameters : n_estimators = 1110.0742035609298, max_depth = 6.87585721678321, learning_rate = 0.11217790242468453, max_features = 89.86596090569356, min_samples_leaf = 42.95025688267737, min_samples_split = 59.93947670631048.
+2024-03-25 17:39:22,263 INFO     kb 
+
+2024-03-25 17:39:22,263 INFO     kb Changed Parameters : n_estimators = 1110, max_depth = 7, learning_rate = 0.11217790242468453, max_features = 90, min_samples_leaf = 43, min_samples_split = 60.
+2024-03-25 17:39:22,264 INFO     kb 
+
+2024-03-25 17:39:53,633 INFO     kb Score : 0.9482650782789187.
+2024-03-25 17:39:53,634 INFO     kb 
+
+2024-03-25 17:39:53,635 INFO     kb 
+2024-03-25 17:39:53,635 INFO     kb 
+2024-03-25 17:39:53,767 INFO     kb Raw Parameters : n_estimators = 1281.668193331942, max_depth = 31.041734117404335, learning_rate = 0.018802867285404194, max_features = 195.15904908037038, min_samples_leaf = 51.284164245472105, min_samples_split = 128.4866949324904.
+2024-03-25 17:39:53,767 INFO     kb 
+
+2024-03-25 17:39:53,768 INFO     kb Changed Parameters : n_estimators = 1282, max_depth = 31, learning_rate = 0.018802867285404194, max_features = 195, min_samples_leaf = 51, min_samples_split = 128.
+2024-03-25 17:39:53,768 INFO     kb 
+
+2024-03-25 17:43:05,799 INFO     kb Score : 0.9479768348656833.
+2024-03-25 17:43:05,799 INFO     kb 
+
+2024-03-25 17:43:05,800 INFO     kb 
+2024-03-25 17:43:05,801 INFO     kb 
+2024-03-25 17:43:05,964 INFO     kb Raw Parameters : n_estimators = 1222.3462013108274, max_depth = 14.021939294722578, learning_rate = 0.46612820382908693, max_features = 212.4448721352045, min_samples_leaf = 46.33787568776572, min_samples_split = 141.46712284122916.
+2024-03-25 17:43:05,964 INFO     kb 
+
+2024-03-25 17:43:05,964 INFO     kb Changed Parameters : n_estimators = 1222, max_depth = 14, learning_rate = 0.46612820382908693, max_features = 212, min_samples_leaf = 46, min_samples_split = 141.
+2024-03-25 17:43:05,965 INFO     kb 
+
+2024-03-25 17:44:44,961 INFO     kb Score : 0.9428465222631136.
+2024-03-25 17:44:44,962 INFO     kb 
+
+2024-03-25 17:44:44,963 INFO     kb 
+2024-03-25 17:44:44,963 INFO     kb 
+2024-03-25 17:44:45,252 INFO     kb Raw Parameters : n_estimators = 1112.1100364983943, max_depth = 10.646923179064924, learning_rate = 0.33376762536403304, max_features = 137.06887106776074, min_samples_leaf = 77.9181225532847, min_samples_split = 122.99521616212533.
+2024-03-25 17:44:45,253 INFO     kb 
+
+2024-03-25 17:44:45,253 INFO     kb Changed Parameters : n_estimators = 1112, max_depth = 11, learning_rate = 0.33376762536403304, max_features = 137, min_samples_leaf = 78, min_samples_split = 123.
+2024-03-25 17:44:45,254 INFO     kb 
+
+2024-03-25 17:45:36,155 INFO     kb Score : 0.943394104256312.
+2024-03-25 17:45:36,156 INFO     kb 
+
+2024-03-25 17:45:36,157 INFO     kb 
+2024-03-25 17:45:36,157 INFO     kb 
+2024-03-25 17:45:36,266 INFO     kb Raw Parameters : n_estimators = 672.8832100803534, max_depth = 93.09475160200715, learning_rate = 0.012736710753049128, max_features = 214.97780276672117, min_samples_leaf = 40.43192470813667, min_samples_split = 67.0163075166087.
+2024-03-25 17:45:36,267 INFO     kb 
+
+2024-03-25 17:45:36,267 INFO     kb Changed Parameters : n_estimators = 673, max_depth = 93, learning_rate = 0.012736710753049128, max_features = 215, min_samples_leaf = 40, min_samples_split = 67.
+2024-03-25 17:45:36,267 INFO     kb 
+
+2024-03-25 17:48:22,800 INFO     kb Score : 0.9462475787311564.
+2024-03-25 17:48:22,801 INFO     kb 
+
+2024-03-25 17:48:22,801 INFO     kb 
+2024-03-25 17:48:22,801 INFO     kb 
+2024-03-25 17:48:23,020 INFO     kb Raw Parameters : n_estimators = 518.2415539137088, max_depth = 19.349812045097643, learning_rate = 0.022655536688706204, max_features = 189.87915125135416, min_samples_leaf = 22.959023501244562, min_samples_split = 74.31598941827893.
+2024-03-25 17:48:23,021 INFO     kb 
+
+2024-03-25 17:48:23,021 INFO     kb Changed Parameters : n_estimators = 518, max_depth = 19, learning_rate = 0.022655536688706204, max_features = 190, min_samples_leaf = 23, min_samples_split = 74.
+2024-03-25 17:48:23,022 INFO     kb 
+
+2024-03-25 17:49:14,880 INFO     kb Score : 0.9394168076708679.
+2024-03-25 17:49:14,880 INFO     kb 
+
+2024-03-25 17:49:14,881 INFO     kb 
+2024-03-25 17:49:14,881 INFO     kb 
+2024-03-25 17:49:15,045 INFO     kb Raw Parameters : n_estimators = 646.8141667986565, max_depth = 28.561914632602427, learning_rate = 0.46294282004221776, max_features = 156.63966123819168, min_samples_leaf = 37.73662812136749, min_samples_split = 76.43373341211563.
+2024-03-25 17:49:15,046 INFO     kb 
+
+2024-03-25 17:49:15,046 INFO     kb Changed Parameters : n_estimators = 647, max_depth = 29, learning_rate = 0.46294282004221776, max_features = 157, min_samples_leaf = 38, min_samples_split = 76.
+2024-03-25 17:49:15,046 INFO     kb 
+
+2024-03-25 17:50:41,213 INFO     kb Score : 0.9435670871860132.
+2024-03-25 17:50:41,214 INFO     kb 
+
+2024-03-25 17:50:41,214 INFO     kb 
+2024-03-25 17:50:41,215 INFO     kb 
+2024-03-25 17:50:41,434 INFO     kb Raw Parameters : n_estimators = 635.2826403908475, max_depth = 95.96456321601333, learning_rate = 0.3439202452029936, max_features = 192.89035295282812, min_samples_leaf = 24.780332063706368, min_samples_split = 4.609167633832255.
+2024-03-25 17:50:41,435 INFO     kb 
+
+2024-03-25 17:50:41,436 INFO     kb Changed Parameters : n_estimators = 635, max_depth = 96, learning_rate = 0.3439202452029936, max_features = 193, min_samples_leaf = 25, min_samples_split = 5.
+2024-03-25 17:50:41,436 INFO     kb 
+
+2024-03-25 17:55:03,016 INFO     kb Score : 0.9482074106569894.
+2024-03-25 17:55:03,018 INFO     kb 
+
+2024-03-25 17:55:03,018 INFO     kb 
+2024-03-25 17:55:03,019 INFO     kb 
+2024-03-25 17:55:03,280 INFO     kb Raw Parameters : n_estimators = 1218.1985929992063, max_depth = 65.06716293363344, learning_rate = 0.23921352047344005, max_features = 278.45770806029293, min_samples_leaf = 1.6290332908840246, min_samples_split = 14.701281873521987.
+2024-03-25 17:55:03,280 INFO     kb 
+
+2024-03-25 17:55:03,281 INFO     kb Changed Parameters : n_estimators = 1218, max_depth = 65, learning_rate = 0.23921352047344005, max_features = 278, min_samples_leaf = 2, min_samples_split = 15.
+2024-03-25 17:55:03,282 INFO     kb 
+
+2024-03-25 18:03:06,630 INFO     kb Score : 0.9521559768499174.
+2024-03-25 18:03:06,631 INFO     kb 
+
+2024-03-25 18:03:06,632 INFO     kb 
+2024-03-25 18:03:06,633 INFO     kb 
+2024-03-25 18:03:06,806 INFO     kb Raw Parameters : n_estimators = 610.7392215197045, max_depth = 71.98805096541606, learning_rate = 0.4721933528357507, max_features = 246.83142968678496, min_samples_leaf = 90.55748073763897, min_samples_split = 2.5072089302995084.
+2024-03-25 18:03:06,807 INFO     kb 
+
+2024-03-25 18:03:06,807 INFO     kb Changed Parameters : n_estimators = 611, max_depth = 72, learning_rate = 0.4721933528357507, max_features = 247, min_samples_leaf = 91, min_samples_split = 3.
+2024-03-25 18:03:06,807 INFO     kb 
+
+2024-03-25 18:05:27,789 INFO     kb Score : 0.9382062461403425.
+2024-03-25 18:05:27,789 INFO     kb 
+
+2024-03-25 18:05:27,790 INFO     kb 
+2024-03-25 18:05:27,790 INFO     kb 
+2024-03-25 18:05:28,012 INFO     kb Raw Parameters : n_estimators = 603.5318071786212, max_depth = 36.77584743021768, learning_rate = 0.20681120061985897, max_features = 154.96833344225485, min_samples_leaf = 55.985466673932024, min_samples_split = 2.0.
+2024-03-25 18:05:28,013 INFO     kb 
+
+2024-03-25 18:05:28,013 INFO     kb Changed Parameters : n_estimators = 604, max_depth = 37, learning_rate = 0.20681120061985897, max_features = 155, min_samples_leaf = 56, min_samples_split = 2.
+2024-03-25 18:05:28,014 INFO     kb 
+
+2024-03-25 18:06:48,379 INFO     kb Score : 0.9459881105666316.
+2024-03-25 18:06:48,380 INFO     kb 
+
+2024-03-25 18:06:48,380 INFO     kb 
+2024-03-25 18:06:48,381 INFO     kb 
+2024-03-25 18:06:48,545 INFO     kb Raw Parameters : n_estimators = 593.0951935906498, max_depth = 84.74474652204792, learning_rate = 0.5, max_features = 206.47289232431234, min_samples_leaf = 60.844070357393605, min_samples_split = 150.0.
+2024-03-25 18:06:48,545 INFO     kb 
+
+2024-03-25 18:06:48,545 INFO     kb Changed Parameters : n_estimators = 593, max_depth = 85, learning_rate = 0.5, max_features = 206, min_samples_leaf = 61, min_samples_split = 150.
+2024-03-25 18:06:48,546 INFO     kb 
+
+2024-03-25 18:09:52,157 INFO     kb Score : 0.9407425723686789.
+2024-03-25 18:09:52,157 INFO     kb 
+
+2024-03-25 18:09:52,158 INFO     kb 
+2024-03-25 18:09:52,158 INFO     kb 
+2024-03-25 18:09:53,264 INFO     kb Raw Parameters : n_estimators = 1513.8200185000524, max_depth = 39.79136990342653, learning_rate = 0.2781755881960059, max_features = 133.42819312325716, min_samples_leaf = 25.898924536017088, min_samples_split = 83.71333462584731.
+2024-03-25 18:09:53,265 INFO     kb 
+
+2024-03-25 18:09:53,265 INFO     kb Changed Parameters : n_estimators = 1514, max_depth = 40, learning_rate = 0.2781755881960059, max_features = 133, min_samples_leaf = 26, min_samples_split = 84.
+2024-03-25 18:09:53,266 INFO     kb 
+
+2024-03-25 18:13:57,186 INFO     kb Score : 0.9438553206312054.
+2024-03-25 18:13:57,187 INFO     kb 
+
+2024-03-25 18:13:57,188 INFO     kb 
+2024-03-25 18:13:57,188 INFO     kb 
+2024-03-25 18:13:57,189 INFO     kb =================================================================================================
+
+2024-03-25 18:13:57,189 INFO     kb 
