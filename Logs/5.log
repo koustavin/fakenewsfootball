@@ -1,0 +1,615 @@
+2024-04-05 10:54:03,694 INFO     kb Extreme Gradient Boosting
+2024-04-05 10:55:09,030 INFO     kb Current Parameters : colsample_bylevel = 0.449, colsample_bynode = 0.855, colsample_bytree = 0.468, gamma = 1.937, learning_rate = 0.277, max_depth = 10, min_child_weight = 6.488, reg_alpha = 4.262, reg_lambda = 0.398, subsample = 0.88.
+2024-04-05 10:55:36,474 INFO     kb time_taken = 27.443 s, boosting_rounds_used = 81. Mean Accuracy : Train - 0.94718, Test - 0.93357.
+2024-04-05 10:55:36,475 INFO     kb Current Parameters : colsample_bylevel = 0.888, colsample_bynode = 0.332, colsample_bytree = 0.725, gamma = 3.695, learning_rate = 0.772, max_depth = 10, min_child_weight = 1.224, reg_alpha = 4.161, reg_lambda = 2.214, subsample = 0.994.
+2024-04-05 10:55:53,406 INFO     kb time_taken = 16.932 s, boosting_rounds_used = 37. Mean Accuracy : Train - 0.94488, Test - 0.92846.
+2024-04-05 10:55:53,407 INFO     kb Current Parameters : colsample_bylevel = 0.791, colsample_bynode = 0.65, colsample_bytree = 0.824, gamma = 4.942, learning_rate = 0.832, max_depth = 8, min_child_weight = 6.512, reg_alpha = 4.078, reg_lambda = 4.551, subsample = 0.728.
+2024-04-05 10:56:06,276 INFO     kb time_taken = 12.869 s, boosting_rounds_used = 31. Mean Accuracy : Train - 0.93411, Test - 0.92221.
+2024-04-05 10:56:06,277 INFO     kb Current Parameters : colsample_bylevel = 0.427, colsample_bynode = 0.928, colsample_bytree = 0.29, gamma = 0.78, learning_rate = 0.702, max_depth = 7, min_child_weight = 7.263, reg_alpha = 4.992, reg_lambda = 4.399, subsample = 0.949.
+2024-04-05 10:56:37,432 INFO     kb time_taken = 31.154 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94749, Test - 0.93359.
+2024-04-05 10:56:37,433 INFO     kb Current Parameters : colsample_bylevel = 0.265, colsample_bynode = 0.633, colsample_bytree = 0.23, gamma = 6.829, learning_rate = 0.62, max_depth = 9, min_child_weight = 3.785, reg_alpha = 1.289, reg_lambda = 0.994, subsample = 0.613.
+2024-04-05 10:57:01,524 INFO     kb time_taken = 24.091 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.93698, Test - 0.92743.
+2024-04-05 10:57:01,525 INFO     kb Current Parameters : colsample_bylevel = 0.77, colsample_bynode = 0.622, colsample_bytree = 0.301, gamma = 1.252, learning_rate = 0.397, max_depth = 6, min_child_weight = 6.546, reg_alpha = 4.509, reg_lambda = 4.662, subsample = 0.55.
+2024-04-05 10:57:33,790 INFO     kb time_taken = 32.266 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.93695, Test - 0.92581.
+2024-04-05 10:57:33,791 INFO     kb Current Parameters : colsample_bylevel = 0.719, colsample_bynode = 0.754, colsample_bytree = 0.781, gamma = 0.456, learning_rate = 0.573, max_depth = 8, min_child_weight = 3.176, reg_alpha = 4.921, reg_lambda = 1.661, subsample = 0.9.
+2024-04-05 10:58:36,072 INFO     kb time_taken = 62.28 s, boosting_rounds_used = 86. Mean Accuracy : Train - 0.96178, Test - 0.93636.
+2024-04-05 10:58:36,074 INFO     kb Current Parameters : colsample_bylevel = 0.235, colsample_bynode = 0.545, colsample_bytree = 0.207, gamma = 3.719, learning_rate = 0.362, max_depth = 6, min_child_weight = 0.847, reg_alpha = 1.911, reg_lambda = 4.428, subsample = 0.926.
+2024-04-05 10:59:02,111 INFO     kb time_taken = 26.037 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94004, Test - 0.93138.
+2024-04-05 10:59:02,112 INFO     kb Current Parameters : colsample_bylevel = 0.304, colsample_bynode = 0.288, colsample_bytree = 0.291, gamma = 4.668, learning_rate = 0.406, max_depth = 9, min_child_weight = 0.531, reg_alpha = 1.432, reg_lambda = 2.527, subsample = 0.588.
+2024-04-05 10:59:24,830 INFO     kb time_taken = 22.718 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.93701, Test - 0.92921.
+2024-04-05 10:59:24,832 INFO     kb Current Parameters : colsample_bylevel = 0.271, colsample_bynode = 0.425, colsample_bytree = 0.322, gamma = 7.764, learning_rate = 0.666, max_depth = 7, min_child_weight = 1.236, reg_alpha = 0.4, reg_lambda = 0.605, subsample = 0.672.
+2024-04-05 10:59:46,284 INFO     kb time_taken = 21.452 s, boosting_rounds_used = 87. Mean Accuracy : Train - 0.94426, Test - 0.93218.
+2024-04-05 10:59:46,285 INFO     kb Current Parameters : colsample_bylevel = 0.806, colsample_bynode = 0.356, colsample_bytree = 0.484, gamma = 1.065, learning_rate = 0.887, max_depth = 8, min_child_weight = 4.889, reg_alpha = 0.08, reg_lambda = 0.03, subsample = 0.727.
+2024-04-05 11:00:10,359 INFO     kb time_taken = 24.074 s, boosting_rounds_used = 51. Mean Accuracy : Train - 0.95714, Test - 0.9327.
+2024-04-05 11:00:10,360 INFO     kb Current Parameters : colsample_bylevel = 0.888, colsample_bynode = 0.762, colsample_bytree = 0.258, gamma = 2.962, learning_rate = 0.695, max_depth = 4, min_child_weight = 3.731, reg_alpha = 4.659, reg_lambda = 2.305, subsample = 0.521.
+2024-04-05 11:00:28,251 INFO     kb time_taken = 17.89 s, boosting_rounds_used = 54. Mean Accuracy : Train - 0.92998, Test - 0.92261.
+2024-04-05 11:00:28,252 INFO     kb Current Parameters : colsample_bylevel = 0.296, colsample_bynode = 0.951, colsample_bytree = 0.902, gamma = 9.086, learning_rate = 0.349, max_depth = 5, min_child_weight = 2.946, reg_alpha = 3.277, reg_lambda = 3.54, subsample = 0.885.
+2024-04-05 11:00:53,198 INFO     kb time_taken = 24.946 s, boosting_rounds_used = 66. Mean Accuracy : Train - 0.92835, Test - 0.92103.
+2024-04-05 11:00:53,199 INFO     kb Current Parameters : colsample_bylevel = 0.422, colsample_bynode = 0.545, colsample_bytree = 0.43, gamma = 8.647, learning_rate = 0.673, max_depth = 8, min_child_weight = 0.321, reg_alpha = 0.544, reg_lambda = 1.645, subsample = 0.639.
+2024-04-05 11:01:13,095 INFO     kb time_taken = 19.896 s, boosting_rounds_used = 64. Mean Accuracy : Train - 0.93924, Test - 0.92872.
+2024-04-05 11:01:13,096 INFO     kb Current Parameters : colsample_bylevel = 0.71, colsample_bynode = 0.452, colsample_bytree = 0.306, gamma = 2.147, learning_rate = 0.886, max_depth = 5, min_child_weight = 7.39, reg_alpha = 3.363, reg_lambda = 1.284, subsample = 0.722.
+2024-04-05 11:01:36,462 INFO     kb time_taken = 23.366 s, boosting_rounds_used = 92. Mean Accuracy : Train - 0.94326, Test - 0.93063.
+2024-04-05 11:01:36,463 INFO     kb Current Parameters : colsample_bylevel = 0.425, colsample_bynode = 0.588, colsample_bytree = 0.801, gamma = 8.537, learning_rate = 0.473, max_depth = 9, min_child_weight = 4.598, reg_alpha = 2.662, reg_lambda = 2.983, subsample = 0.903.
+2024-04-05 11:01:58,695 INFO     kb time_taken = 22.232 s, boosting_rounds_used = 52. Mean Accuracy : Train - 0.93403, Test - 0.9244.
+2024-04-05 11:01:58,697 INFO     kb Current Parameters : colsample_bylevel = 0.526, colsample_bynode = 0.707, colsample_bytree = 0.906, gamma = 6.879, learning_rate = 0.529, max_depth = 4, min_child_weight = 4.11, reg_alpha = 0.421, reg_lambda = 0.128, subsample = 0.588.
+2024-04-05 11:02:30,919 INFO     kb time_taken = 32.222 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9477, Test - 0.93432.
+2024-04-05 11:02:30,920 INFO     kb Current Parameters : colsample_bylevel = 0.659, colsample_bynode = 0.437, colsample_bytree = 0.23, gamma = 1.039, learning_rate = 0.809, max_depth = 4, min_child_weight = 3.817, reg_alpha = 1.939, reg_lambda = 0.599, subsample = 0.619.
+2024-04-05 11:02:55,656 INFO     kb time_taken = 24.736 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95122, Test - 0.93449.
+2024-04-05 11:02:55,657 INFO     kb Current Parameters : colsample_bylevel = 0.463, colsample_bynode = 0.593, colsample_bytree = 0.917, gamma = 8.057, learning_rate = 0.369, max_depth = 8, min_child_weight = 0.351, reg_alpha = 2.64, reg_lambda = 4.237, subsample = 0.974.
+2024-04-05 11:03:28,219 INFO     kb time_taken = 32.562 s, boosting_rounds_used = 79. Mean Accuracy : Train - 0.93517, Test - 0.92506.
+2024-04-05 11:03:28,220 INFO     kb Current Parameters : colsample_bylevel = 0.705, colsample_bynode = 0.424, colsample_bytree = 0.24, gamma = 4.891, learning_rate = 0.743, max_depth = 5, min_child_weight = 4.617, reg_alpha = 2.635, reg_lambda = 0.059, subsample = 0.732.
+2024-04-05 11:03:48,501 INFO     kb time_taken = 20.281 s, boosting_rounds_used = 81. Mean Accuracy : Train - 0.94194, Test - 0.92893.
+2024-04-05 11:03:48,502 INFO     kb Current Parameters : colsample_bylevel = 0.845, colsample_bynode = 0.426, colsample_bytree = 0.843, gamma = 8.607, learning_rate = 0.315, max_depth = 9, min_child_weight = 1.404, reg_alpha = 0.239, reg_lambda = 3.027, subsample = 0.938.
+2024-04-05 11:04:26,370 INFO     kb time_taken = 37.868 s, boosting_rounds_used = 59. Mean Accuracy : Train - 0.94315, Test - 0.92826.
+2024-04-05 11:04:26,372 INFO     kb Current Parameters : colsample_bylevel = 0.533, colsample_bynode = 0.293, colsample_bytree = 0.932, gamma = 9.571, learning_rate = 0.469, max_depth = 7, min_child_weight = 1.988, reg_alpha = 3.474, reg_lambda = 1.442, subsample = 0.542.
+2024-04-05 11:04:45,483 INFO     kb time_taken = 19.111 s, boosting_rounds_used = 61. Mean Accuracy : Train - 0.92273, Test - 0.91616.
+2024-04-05 11:04:45,484 INFO     kb Current Parameters : colsample_bylevel = 0.745, colsample_bynode = 0.641, colsample_bytree = 0.618, gamma = 1.097, learning_rate = 0.632, max_depth = 9, min_child_weight = 6.974, reg_alpha = 4.368, reg_lambda = 3.884, subsample = 0.973.
+2024-04-05 11:05:17,813 INFO     kb time_taken = 32.329 s, boosting_rounds_used = 61. Mean Accuracy : Train - 0.95146, Test - 0.93336.
+2024-04-05 11:05:17,814 INFO     kb Current Parameters : colsample_bylevel = 0.379, colsample_bynode = 0.657, colsample_bytree = 0.514, gamma = 7.77, learning_rate = 0.783, max_depth = 7, min_child_weight = 6.835, reg_alpha = 1.606, reg_lambda = 4.211, subsample = 0.874.
+2024-04-05 11:05:38,637 INFO     kb time_taken = 20.823 s, boosting_rounds_used = 73. Mean Accuracy : Train - 0.93629, Test - 0.92581.
+2024-04-05 11:05:38,638 INFO     kb Current Parameters : colsample_bylevel = 0.812, colsample_bynode = 0.355, colsample_bytree = 0.229, gamma = 5.724, learning_rate = 0.878, max_depth = 5, min_child_weight = 5.573, reg_alpha = 4.262, reg_lambda = 4.555, subsample = 0.724.
+2024-04-05 11:05:54,536 INFO     kb time_taken = 15.898 s, boosting_rounds_used = 61. Mean Accuracy : Train - 0.92822, Test - 0.92074.
+2024-04-05 11:05:54,537 INFO     kb Current Parameters : colsample_bylevel = 0.944, colsample_bynode = 0.746, colsample_bytree = 0.213, gamma = 8.437, learning_rate = 0.611, max_depth = 5, min_child_weight = 6.229, reg_alpha = 0.295, reg_lambda = 4.795, subsample = 0.943.
+2024-04-05 11:06:15,952 INFO     kb time_taken = 21.415 s, boosting_rounds_used = 81. Mean Accuracy : Train - 0.93822, Test - 0.92806.
+2024-04-05 11:06:15,953 INFO     kb Current Parameters : colsample_bylevel = 0.713, colsample_bynode = 0.898, colsample_bytree = 0.662, gamma = 6.521, learning_rate = 0.794, max_depth = 5, min_child_weight = 6.774, reg_alpha = 3.788, reg_lambda = 1.202, subsample = 0.514.
+2024-04-05 11:06:37,534 INFO     kb time_taken = 21.581 s, boosting_rounds_used = 62. Mean Accuracy : Train - 0.93084, Test - 0.92207.
+2024-04-05 11:06:37,535 INFO     kb Current Parameters : colsample_bylevel = 0.736, colsample_bynode = 0.242, colsample_bytree = 0.481, gamma = 8.618, learning_rate = 0.276, max_depth = 10, min_child_weight = 1.356, reg_alpha = 0.909, reg_lambda = 3.509, subsample = 0.586.
+2024-04-05 11:07:06,446 INFO     kb time_taken = 28.911 s, boosting_rounds_used = 91. Mean Accuracy : Train - 0.92999, Test - 0.92345.
+2024-04-05 11:07:06,447 INFO     kb Current Parameters : colsample_bylevel = 0.818, colsample_bynode = 0.289, colsample_bytree = 0.691, gamma = 8.545, learning_rate = 0.265, max_depth = 4, min_child_weight = 4.426, reg_alpha = 0.949, reg_lambda = 1.978, subsample = 0.627.
+2024-04-05 11:07:34,072 INFO     kb time_taken = 27.625 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.93182, Test - 0.92325.
+2024-04-05 11:07:34,073 INFO     kb Current Parameters : colsample_bylevel = 0.689, colsample_bynode = 0.442, colsample_bytree = 0.253, gamma = 9.098, learning_rate = 0.659, max_depth = 9, min_child_weight = 1.178, reg_alpha = 3.291, reg_lambda = 0.592, subsample = 0.573.
+2024-04-05 11:07:49,108 INFO     kb time_taken = 15.035 s, boosting_rounds_used = 60. Mean Accuracy : Train - 0.92616, Test - 0.92045.
+2024-04-05 11:07:49,109 INFO     kb Current Parameters : colsample_bylevel = 0.501, colsample_bynode = 0.652, colsample_bytree = 0.95, gamma = 9.296, learning_rate = 0.555, max_depth = 6, min_child_weight = 6.467, reg_alpha = 3.29, reg_lambda = 0.338, subsample = 0.701.
+2024-04-05 11:08:05,653 INFO     kb time_taken = 16.544 s, boosting_rounds_used = 40. Mean Accuracy : Train - 0.93047, Test - 0.9223.
+2024-04-05 11:08:05,654 INFO     kb Current Parameters : colsample_bylevel = 0.532, colsample_bynode = 0.696, colsample_bytree = 0.554, gamma = 5.89, learning_rate = 0.663, max_depth = 4, min_child_weight = 0.506, reg_alpha = 0.523, reg_lambda = 2.656, subsample = 0.791.
+2024-04-05 11:08:35,163 INFO     kb time_taken = 29.509 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9493, Test - 0.93452.
+2024-04-05 11:08:35,164 INFO     kb Current Parameters : colsample_bylevel = 0.204, colsample_bynode = 0.313, colsample_bytree = 0.79, gamma = 8.4, learning_rate = 0.606, max_depth = 7, min_child_weight = 1.682, reg_alpha = 2.286, reg_lambda = 0.61, subsample = 0.746.
+2024-04-05 11:08:57,647 INFO     kb time_taken = 22.483 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.93558, Test - 0.92544.
+2024-04-05 11:08:57,648 INFO     kb Current Parameters : colsample_bylevel = 0.729, colsample_bynode = 0.872, colsample_bytree = 0.593, gamma = 5.019, learning_rate = 0.692, max_depth = 8, min_child_weight = 5.781, reg_alpha = 0.853, reg_lambda = 4.749, subsample = 0.592.
+2024-04-05 11:09:22,151 INFO     kb time_taken = 24.503 s, boosting_rounds_used = 51. Mean Accuracy : Train - 0.94125, Test - 0.92754.
+2024-04-05 11:09:22,152 INFO     kb Current Parameters : colsample_bylevel = 0.698, colsample_bynode = 0.956, colsample_bytree = 0.745, gamma = 1.63, learning_rate = 0.214, max_depth = 8, min_child_weight = 3.65, reg_alpha = 4.246, reg_lambda = 1.232, subsample = 0.837.
+2024-04-05 11:10:34,651 INFO     kb time_taken = 72.5 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94812, Test - 0.93227.
+2024-04-05 11:10:34,653 INFO     kb Current Parameters : colsample_bylevel = 0.742, colsample_bynode = 0.692, colsample_bytree = 0.591, gamma = 3.232, learning_rate = 0.502, max_depth = 10, min_child_weight = 3.309, reg_alpha = 0.518, reg_lambda = 2.032, subsample = 0.972.
+2024-04-05 11:11:12,279 INFO     kb time_taken = 37.626 s, boosting_rounds_used = 58. Mean Accuracy : Train - 0.96168, Test - 0.93847.
+2024-04-05 11:11:12,280 INFO     kb Current Parameters : colsample_bylevel = 0.68, colsample_bynode = 0.538, colsample_bytree = 0.748, gamma = 6.976, learning_rate = 0.445, max_depth = 10, min_child_weight = 3.167, reg_alpha = 0.929, reg_lambda = 1.051, subsample = 0.972.
+2024-04-05 11:11:39,127 INFO     kb time_taken = 26.847 s, boosting_rounds_used = 49. Mean Accuracy : Train - 0.94754, Test - 0.931.
+2024-04-05 11:11:39,128 INFO     kb Current Parameters : colsample_bylevel = 0.593, colsample_bynode = 0.919, colsample_bytree = 0.397, gamma = 3.945, learning_rate = 0.226, max_depth = 7, min_child_weight = 0.363, reg_alpha = 2.063, reg_lambda = 0.025, subsample = 0.748.
+2024-04-05 11:12:28,174 INFO     kb time_taken = 49.046 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94896, Test - 0.93541.
+2024-04-05 11:12:28,175 INFO     kb Current Parameters : colsample_bylevel = 0.904, colsample_bynode = 0.613, colsample_bytree = 0.239, gamma = 7.717, learning_rate = 0.78, max_depth = 7, min_child_weight = 2.116, reg_alpha = 1.943, reg_lambda = 3.791, subsample = 0.66.
+2024-04-05 11:12:42,545 INFO     kb time_taken = 14.37 s, boosting_rounds_used = 48. Mean Accuracy : Train - 0.93225, Test - 0.924.
+2024-04-05 11:12:42,547 INFO     kb Current Parameters : colsample_bylevel = 0.846, colsample_bynode = 0.22, colsample_bytree = 0.481, gamma = 9.051, learning_rate = 0.854, max_depth = 5, min_child_weight = 2.171, reg_alpha = 0.667, reg_lambda = 1.565, subsample = 0.66.
+2024-04-05 11:12:56,617 INFO     kb time_taken = 14.071 s, boosting_rounds_used = 49. Mean Accuracy : Train - 0.93669, Test - 0.92604.
+2024-04-05 11:12:56,618 INFO     kb Current Parameters : colsample_bylevel = 0.704, colsample_bynode = 0.417, colsample_bytree = 0.701, gamma = 3.362, learning_rate = 0.435, max_depth = 7, min_child_weight = 0.466, reg_alpha = 2.806, reg_lambda = 4.416, subsample = 0.708.
+2024-04-05 11:13:27,357 INFO     kb time_taken = 30.739 s, boosting_rounds_used = 62. Mean Accuracy : Train - 0.94125, Test - 0.92979.
+2024-04-05 11:13:27,358 INFO     kb Current Parameters : colsample_bylevel = 0.202, colsample_bynode = 0.964, colsample_bytree = 0.419, gamma = 4.632, learning_rate = 0.629, max_depth = 8, min_child_weight = 5.329, reg_alpha = 0.206, reg_lambda = 1.476, subsample = 0.596.
+2024-04-05 11:13:40,214 INFO     kb time_taken = 12.856 s, boosting_rounds_used = 36. Mean Accuracy : Train - 0.9393, Test - 0.9278.
+2024-04-05 11:13:40,215 INFO     kb Current Parameters : colsample_bylevel = 0.374, colsample_bynode = 0.755, colsample_bytree = 0.397, gamma = 5.765, learning_rate = 0.676, max_depth = 8, min_child_weight = 5.461, reg_alpha = 0.437, reg_lambda = 0.8, subsample = 0.631.
+2024-04-05 11:14:04,881 INFO     kb time_taken = 24.666 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9462, Test - 0.93264.
+2024-04-05 11:14:04,882 INFO     kb Current Parameters : colsample_bylevel = 0.318, colsample_bynode = 0.534, colsample_bytree = 0.445, gamma = 8.522, learning_rate = 0.411, max_depth = 7, min_child_weight = 6.796, reg_alpha = 2.382, reg_lambda = 0.538, subsample = 0.773.
+2024-04-05 11:14:19,214 INFO     kb time_taken = 14.332 s, boosting_rounds_used = 49. Mean Accuracy : Train - 0.92989, Test - 0.92195.
+2024-04-05 11:14:19,216 INFO     kb Current Parameters : colsample_bylevel = 0.623, colsample_bynode = 0.218, colsample_bytree = 0.866, gamma = 5.478, learning_rate = 0.463, max_depth = 7, min_child_weight = 7.295, reg_alpha = 2.986, reg_lambda = 1.949, subsample = 0.682.
+2024-04-05 11:14:36,702 INFO     kb time_taken = 17.486 s, boosting_rounds_used = 54. Mean Accuracy : Train - 0.93292, Test - 0.92472.
+2024-04-05 11:14:36,702 INFO     kb Current Parameters : colsample_bylevel = 0.8, colsample_bynode = 0.945, colsample_bytree = 0.375, gamma = 6.222, learning_rate = 0.778, max_depth = 5, min_child_weight = 0.392, reg_alpha = 0.649, reg_lambda = 0.426, subsample = 0.746.
+2024-04-05 11:15:05,725 INFO     kb time_taken = 29.022 s, boosting_rounds_used = 87. Mean Accuracy : Train - 0.95746, Test - 0.93783.
+2024-04-05 11:15:05,726 INFO     kb Current Parameters : colsample_bylevel = 0.422, colsample_bynode = 0.749, colsample_bytree = 1.0, gamma = 3.181, learning_rate = 0.641, max_depth = 5, min_child_weight = 5.38, reg_alpha = 1.259, reg_lambda = 1.23, subsample = 0.656.
+2024-04-05 11:15:29,657 INFO     kb time_taken = 23.932 s, boosting_rounds_used = 65. Mean Accuracy : Train - 0.94639, Test - 0.9329.
+2024-04-05 11:15:29,659 INFO     kb Current Parameters : colsample_bylevel = 0.672, colsample_bynode = 0.534, colsample_bytree = 0.933, gamma = 1.764, learning_rate = 0.556, max_depth = 6, min_child_weight = 1.502, reg_alpha = 4.411, reg_lambda = 0.035, subsample = 0.88.
+2024-04-05 11:16:06,453 INFO     kb time_taken = 36.795 s, boosting_rounds_used = 79. Mean Accuracy : Train - 0.95278, Test - 0.9361.
+2024-04-05 11:16:06,454 INFO     kb Current Parameters : colsample_bylevel = 0.246, colsample_bynode = 0.877, colsample_bytree = 0.661, gamma = 3.506, learning_rate = 0.383, max_depth = 8, min_child_weight = 3.11, reg_alpha = 4.887, reg_lambda = 2.523, subsample = 0.611.
+2024-04-05 11:16:30,700 INFO     kb time_taken = 24.245 s, boosting_rounds_used = 76. Mean Accuracy : Train - 0.93334, Test - 0.92483.
+2024-04-05 11:16:30,701 INFO     kb Current Parameters : colsample_bylevel = 0.934, colsample_bynode = 0.427, colsample_bytree = 0.414, gamma = 2.079, learning_rate = 0.234, max_depth = 7, min_child_weight = 4.705, reg_alpha = 1.511, reg_lambda = 4.363, subsample = 0.589.
+2024-04-05 11:17:05,984 INFO     kb time_taken = 35.284 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94043, Test - 0.93005.
+2024-04-05 11:17:07,067 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 3.846, learning_rate = 0.9, max_depth = 5, min_child_weight = 1.658, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 11:17:34,133 INFO     kb time_taken = 27.066 s, boosting_rounds_used = 89. Mean Accuracy : Train - 0.97175, Test - 0.94025.
+2024-04-05 11:17:35,052 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.624, colsample_bytree = 1.0, gamma = 0.844, learning_rate = 0.748, max_depth = 10, min_child_weight = 1.608, reg_alpha = 0.0, reg_lambda = 1.781, subsample = 1.0.
+2024-04-05 11:18:29,652 INFO     kb time_taken = 54.6 s, boosting_rounds_used = 67. Mean Accuracy : Train - 0.98428, Test - 0.94256.
+2024-04-05 11:18:30,599 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.247, reg_alpha = 0.955, reg_lambda = 0.517, subsample = 1.0.
+2024-04-05 11:19:15,399 INFO     kb time_taken = 44.8 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.99032, Test - 0.94325.
+2024-04-05 11:19:16,103 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.724, reg_alpha = 2.178, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 11:20:17,229 INFO     kb time_taken = 61.126 s, boosting_rounds_used = 67. Mean Accuracy : Train - 0.98925, Test - 0.93855.
+2024-04-05 11:20:17,869 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 2.84, subsample = 1.0.
+2024-04-05 11:25:16,616 INFO     kb time_taken = 298.747 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.99167, Test - 0.94386.
+2024-04-05 11:25:18,143 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.2, max_depth = 4, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 0.424, subsample = 1.0.
+2024-04-05 11:26:05,653 INFO     kb time_taken = 47.511 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9375, Test - 0.92377.
+2024-04-05 11:26:06,702 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 0.0, reg_alpha = 0.508, reg_lambda = 3.163, subsample = 1.0.
+2024-04-05 11:27:12,742 INFO     kb time_taken = 66.04 s, boosting_rounds_used = 68. Mean Accuracy : Train - 0.98154, Test - 0.94313.
+2024-04-05 11:27:14,203 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.53, reg_alpha = 1.254, reg_lambda = 2.46, subsample = 1.0.
+2024-04-05 11:29:07,067 INFO     kb time_taken = 112.865 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98965, Test - 0.941.
+2024-04-05 11:29:08,771 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.671, learning_rate = 0.9, max_depth = 8, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 1.784, subsample = 1.0.
+2024-04-05 11:30:11,793 INFO     kb time_taken = 63.022 s, boosting_rounds_used = 79. Mean Accuracy : Train - 0.98154, Test - 0.94342.
+2024-04-05 11:30:13,624 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.2, max_depth = 8, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 11:39:39,902 INFO     kb time_taken = 566.278 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96309, Test - 0.93509.
+2024-04-05 11:39:41,355 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 0.646, reg_alpha = 0.0, reg_lambda = 1.411, subsample = 1.0.
+2024-04-05 11:40:18,273 INFO     kb time_taken = 36.918 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98412, Test - 0.94507.
+2024-04-05 11:40:19,783 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 1.202, subsample = 1.0.
+2024-04-05 11:42:06,123 INFO     kb time_taken = 106.341 s, boosting_rounds_used = 47. Mean Accuracy : Train - 0.98702, Test - 0.93999.
+2024-04-05 11:42:08,009 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.774, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.077, reg_alpha = 0.0, reg_lambda = 2.782, subsample = 1.0.
+2024-04-05 11:42:38,516 INFO     kb time_taken = 30.507 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97389, Test - 0.94411.
+2024-04-05 11:42:40,178 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 2.924, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.768, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 11:43:13,486 INFO     kb time_taken = 33.308 s, boosting_rounds_used = 47. Mean Accuracy : Train - 0.97658, Test - 0.93884.
+2024-04-05 11:43:14,864 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 3.367, reg_alpha = 0.0, reg_lambda = 3.554, subsample = 1.0.
+2024-04-05 11:43:43,557 INFO     kb time_taken = 28.693 s, boosting_rounds_used = 70. Mean Accuracy : Train - 0.96923, Test - 0.94138.
+2024-04-05 11:43:45,646 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.0, reg_alpha = 1.401, reg_lambda = 2.216, subsample = 0.5.
+2024-04-05 11:44:26,292 INFO     kb time_taken = 40.646 s, boosting_rounds_used = 70. Mean Accuracy : Train - 0.96087, Test - 0.93388.
+2024-04-05 11:44:28,125 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.136, reg_alpha = 0.0, reg_lambda = 2.559, subsample = 1.0.
+2024-04-05 11:45:02,905 INFO     kb time_taken = 34.779 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97789, Test - 0.94296.
+2024-04-05 11:45:05,020 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.749, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 11:46:01,717 INFO     kb time_taken = 56.698 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98986, Test - 0.94285.
+2024-04-05 11:46:03,271 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 1.806, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.608, reg_alpha = 0.0, reg_lambda = 3.984, subsample = 1.0.
+2024-04-05 11:46:30,305 INFO     kb time_taken = 27.034 s, boosting_rounds_used = 79. Mean Accuracy : Train - 0.9675, Test - 0.94141.
+2024-04-05 11:46:31,727 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.2, max_depth = 8, min_child_weight = 0.759, reg_alpha = 0.0, reg_lambda = 2.02, subsample = 1.0.
+2024-04-05 11:47:51,012 INFO     kb time_taken = 79.285 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9591, Test - 0.9353.
+2024-04-05 11:47:52,563 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.507, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.552, reg_alpha = 0.0, reg_lambda = 1.839, subsample = 1.0.
+2024-04-05 11:48:18,431 INFO     kb time_taken = 25.868 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97595, Test - 0.94489.
+2024-04-05 11:48:19,514 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.383, learning_rate = 0.9, max_depth = 10, min_child_weight = 2.388, reg_alpha = 1.368, reg_lambda = 2.061, subsample = 1.0.
+2024-04-05 11:48:35,024 INFO     kb time_taken = 15.51 s, boosting_rounds_used = 85. Mean Accuracy : Train - 0.9621, Test - 0.94086.
+2024-04-05 11:48:35,805 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 2.183, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.99, reg_alpha = 0.0, reg_lambda = 3.365, subsample = 1.0.
+2024-04-05 11:49:07,482 INFO     kb time_taken = 31.678 s, boosting_rounds_used = 57. Mean Accuracy : Train - 0.97053, Test - 0.93783.
+2024-04-05 11:49:08,274 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 2.126, reg_alpha = 0.0, reg_lambda = 3.787, subsample = 1.0.
+2024-04-05 11:49:27,964 INFO     kb time_taken = 19.69 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97408, Test - 0.94414.
+2024-04-05 11:49:28,878 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 1.519, learning_rate = 0.9, max_depth = 8, min_child_weight = 0.425, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 11:49:45,841 INFO     kb time_taken = 16.964 s, boosting_rounds_used = 71. Mean Accuracy : Train - 0.97118, Test - 0.93642.
+2024-04-05 11:49:46,659 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.182, reg_alpha = 0.0, reg_lambda = 3.792, subsample = 1.0.
+2024-04-05 11:50:12,300 INFO     kb time_taken = 25.641 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98111, Test - 0.94409.
+2024-04-05 11:50:13,138 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.597, learning_rate = 0.9, max_depth = 9, min_child_weight = 1.998, reg_alpha = 0.0, reg_lambda = 2.565, subsample = 1.0.
+2024-04-05 11:50:30,886 INFO     kb time_taken = 17.748 s, boosting_rounds_used = 42. Mean Accuracy : Train - 0.96701, Test - 0.93844.
+2024-04-05 11:50:31,699 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 2.149, reg_alpha = 1.783, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 11:50:50,031 INFO     kb time_taken = 18.332 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96226, Test - 0.94227.
+2024-04-05 11:50:51,094 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 5, min_child_weight = 1.936, reg_alpha = 0.0, reg_lambda = 4.781, subsample = 1.0.
+2024-04-05 11:51:05,828 INFO     kb time_taken = 14.735 s, boosting_rounds_used = 89. Mean Accuracy : Train - 0.96085, Test - 0.9404.
+2024-04-05 11:51:06,750 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.268, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 5.797, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 11:51:20,022 INFO     kb time_taken = 13.272 s, boosting_rounds_used = 65. Mean Accuracy : Train - 0.95308, Test - 0.93593.
+2024-04-05 11:51:20,974 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 2.144, reg_alpha = 2.222, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 11:51:39,280 INFO     kb time_taken = 18.306 s, boosting_rounds_used = 52. Mean Accuracy : Train - 0.97005, Test - 0.93953.
+2024-04-05 11:51:40,161 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 3.035, reg_alpha = 0.0, reg_lambda = 2.586, subsample = 1.0.
+2024-04-05 11:51:55,370 INFO     kb time_taken = 15.209 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95946, Test - 0.94005.
+2024-04-05 11:51:55,930 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 11:53:13,214 INFO     kb time_taken = 77.285 s, boosting_rounds_used = 49. Mean Accuracy : Train - 0.97723, Test - 0.93383.
+2024-04-05 11:53:13,904 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.453, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 2.818, subsample = 1.0.
+2024-04-05 11:53:37,596 INFO     kb time_taken = 23.692 s, boosting_rounds_used = 76. Mean Accuracy : Train - 0.97588, Test - 0.94241.
+2024-04-05 11:53:38,525 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.709, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 3.098, subsample = 1.0.
+2024-04-05 11:54:02,637 INFO     kb time_taken = 24.113 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97918, Test - 0.94423.
+2024-04-05 11:54:03,385 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 2.735, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 11:54:30,035 INFO     kb time_taken = 26.65 s, boosting_rounds_used = 67. Mean Accuracy : Train - 0.97543, Test - 0.93976.
+2024-04-05 11:54:30,832 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 11:54:45,123 INFO     kb time_taken = 14.291 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94922, Test - 0.93322.
+2024-04-05 11:54:45,884 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 11:55:00,297 INFO     kb time_taken = 14.413 s, boosting_rounds_used = 70. Mean Accuracy : Train - 0.9512, Test - 0.93074.
+2024-04-05 11:55:00,885 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.674, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.613, reg_alpha = 0.851, reg_lambda = 1.422, subsample = 1.0.
+2024-04-05 11:55:19,776 INFO     kb time_taken = 18.891 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96802, Test - 0.94273.
+2024-04-05 11:55:20,555 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 4.305, learning_rate = 0.9, max_depth = 4, min_child_weight = 2.978, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 11:55:34,021 INFO     kb time_taken = 13.466 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96087, Test - 0.94028.
+2024-04-05 11:55:34,710 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.455, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 11:55:51,611 INFO     kb time_taken = 16.901 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96363, Test - 0.94253.
+2024-04-05 11:55:52,446 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 11:56:21,156 INFO     kb time_taken = 28.71 s, boosting_rounds_used = 81. Mean Accuracy : Train - 0.97294, Test - 0.94282.
+2024-04-05 11:56:21,938 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.558, reg_alpha = 1.431, reg_lambda = 3.655, subsample = 1.0.
+2024-04-05 11:56:52,045 INFO     kb time_taken = 30.108 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98034, Test - 0.94227.
+2024-04-05 11:56:52,962 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 7.5, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 11:57:20,861 INFO     kb time_taken = 27.899 s, boosting_rounds_used = 49. Mean Accuracy : Train - 0.95891, Test - 0.93201.
+2024-04-05 11:57:22,049 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 1.237, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.378, reg_alpha = 0.0, reg_lambda = 1.115, subsample = 1.0.
+2024-04-05 11:58:07,446 INFO     kb time_taken = 45.398 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98787, Test - 0.944.
+2024-04-05 11:58:08,427 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 4.344, reg_alpha = 5.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 11:58:30,170 INFO     kb time_taken = 21.743 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95757, Test - 0.9363.
+2024-04-05 11:58:30,932 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 4.721, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 3.214, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 11:58:46,580 INFO     kb time_taken = 15.649 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94334, Test - 0.93264.
+2024-04-05 11:58:47,367 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.192, reg_alpha = 0.0, reg_lambda = 2.823, subsample = 1.0.
+2024-04-05 11:59:06,794 INFO     kb time_taken = 19.427 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97433, Test - 0.94354.
+2024-04-05 11:59:07,713 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:00:04,047 INFO     kb time_taken = 56.333 s, boosting_rounds_used = 44. Mean Accuracy : Train - 0.97693, Test - 0.93579.
+2024-04-05 12:00:04,717 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 10.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:00:14,971 INFO     kb time_taken = 10.255 s, boosting_rounds_used = 17. Mean Accuracy : Train - 0.93736, Test - 0.92325.
+2024-04-05 12:00:16,133 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 3.606, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:00:43,730 INFO     kb time_taken = 27.597 s, boosting_rounds_used = 51. Mean Accuracy : Train - 0.96619, Test - 0.93498.
+2024-04-05 12:00:44,494 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 5.132, learning_rate = 0.9, max_depth = 6, min_child_weight = 2.634, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:01:06,209 INFO     kb time_taken = 21.715 s, boosting_rounds_used = 54. Mean Accuracy : Train - 0.96547, Test - 0.93763.
+2024-04-05 12:01:07,146 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.872, learning_rate = 0.9, max_depth = 10, min_child_weight = 2.305, reg_alpha = 0.0, reg_lambda = 2.358, subsample = 1.0.
+2024-04-05 12:01:22,908 INFO     kb time_taken = 15.763 s, boosting_rounds_used = 66. Mean Accuracy : Train - 0.96798, Test - 0.94129.
+2024-04-05 12:01:23,544 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 4.85, learning_rate = 0.9, max_depth = 4, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:01:36,128 INFO     kb time_taken = 12.583 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.93688, Test - 0.92397.
+2024-04-05 12:01:36,847 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 2.16, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.906, reg_alpha = 0.0, reg_lambda = 1.822, subsample = 1.0.
+2024-04-05 12:01:50,798 INFO     kb time_taken = 13.95 s, boosting_rounds_used = 85. Mean Accuracy : Train - 0.95982, Test - 0.93991.
+2024-04-05 12:01:52,493 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 1.15, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.034, reg_alpha = 1.042, reg_lambda = 0.582, subsample = 1.0.
+2024-04-05 12:02:31,737 INFO     kb time_taken = 39.244 s, boosting_rounds_used = 59. Mean Accuracy : Train - 0.98098, Test - 0.94005.
+2024-04-05 12:02:32,650 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 2.734, reg_alpha = 1.938, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:03:00,365 INFO     kb time_taken = 27.716 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9709, Test - 0.9397.
+2024-04-05 12:03:01,467 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 4.093, reg_alpha = 2.349, reg_lambda = 3.304, subsample = 1.0.
+2024-04-05 12:03:24,503 INFO     kb time_taken = 23.036 s, boosting_rounds_used = 57. Mean Accuracy : Train - 0.96811, Test - 0.93723.
+2024-04-05 12:03:25,512 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.6, reg_alpha = 0.0, reg_lambda = 2.379, subsample = 1.0.
+2024-04-05 12:03:45,975 INFO     kb time_taken = 20.464 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97602, Test - 0.94429.
+2024-04-05 12:03:47,044 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.862, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:04:51,373 INFO     kb time_taken = 64.329 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96827, Test - 0.93919.
+2024-04-05 12:04:52,258 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 2.149, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.975, reg_alpha = 0.0, reg_lambda = 1.825, subsample = 1.0.
+2024-04-05 12:05:07,636 INFO     kb time_taken = 15.378 s, boosting_rounds_used = 70. Mean Accuracy : Train - 0.97216, Test - 0.94129.
+2024-04-05 12:05:08,478 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 3.879, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:05:30,584 INFO     kb time_taken = 22.106 s, boosting_rounds_used = 76. Mean Accuracy : Train - 0.95619, Test - 0.93639.
+2024-04-05 12:05:31,503 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 2.497, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:06:08,198 INFO     kb time_taken = 36.695 s, boosting_rounds_used = 73. Mean Accuracy : Train - 0.98622, Test - 0.94054.
+2024-04-05 12:06:09,140 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 6.148, learning_rate = 0.2, max_depth = 10, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:06:36,930 INFO     kb time_taken = 27.79 s, boosting_rounds_used = 79. Mean Accuracy : Train - 0.94717, Test - 0.93192.
+2024-04-05 12:06:37,865 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:07:07,124 INFO     kb time_taken = 29.259 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95714, Test - 0.93604.
+2024-04-05 12:07:08,198 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.489, reg_alpha = 0.0, reg_lambda = 4.087, subsample = 0.5.
+2024-04-05 12:07:22,116 INFO     kb time_taken = 13.919 s, boosting_rounds_used = 69. Mean Accuracy : Train - 0.95048, Test - 0.93463.
+2024-04-05 12:07:23,013 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.17, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 1.324, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:07:41,609 INFO     kb time_taken = 18.595 s, boosting_rounds_used = 72. Mean Accuracy : Train - 0.96383, Test - 0.93893.
+2024-04-05 12:07:42,783 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.417, learning_rate = 0.9, max_depth = 10, min_child_weight = 3.363, reg_alpha = 1.321, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:08:04,805 INFO     kb time_taken = 22.022 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96465, Test - 0.93803.
+2024-04-05 12:08:05,814 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 1.254, reg_alpha = 1.615, reg_lambda = 4.331, subsample = 1.0.
+2024-04-05 12:08:27,586 INFO     kb time_taken = 21.772 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97196, Test - 0.94115.
+2024-04-05 12:08:28,526 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 3.67, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:08:47,866 INFO     kb time_taken = 19.341 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96563, Test - 0.94187.
+2024-04-05 12:08:48,952 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.2, max_depth = 10, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 1.537, subsample = 1.0.
+2024-04-05 12:09:28,524 INFO     kb time_taken = 39.571 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95564, Test - 0.93659.
+2024-04-05 12:09:30,253 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 3.351, subsample = 1.0.
+2024-04-05 12:11:39,945 INFO     kb time_taken = 129.692 s, boosting_rounds_used = 74. Mean Accuracy : Train - 0.99438, Test - 0.94215.
+2024-04-05 12:11:40,845 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 4.399, subsample = 1.0.
+2024-04-05 12:12:11,485 INFO     kb time_taken = 30.64 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97544, Test - 0.94175.
+2024-04-05 12:12:12,251 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:13:10,920 INFO     kb time_taken = 58.669 s, boosting_rounds_used = 77. Mean Accuracy : Train - 0.96188, Test - 0.93602.
+2024-04-05 12:13:11,726 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.88, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.801, reg_alpha = 0.0, reg_lambda = 1.761, subsample = 1.0.
+2024-04-05 12:13:38,463 INFO     kb time_taken = 26.737 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98389, Test - 0.94437.
+2024-04-05 12:13:39,265 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 1.964, reg_alpha = 0.0, reg_lambda = 4.052, subsample = 1.0.
+2024-04-05 12:13:58,266 INFO     kb time_taken = 19.0 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96639, Test - 0.94045.
+2024-04-05 12:13:59,035 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:14:29,633 INFO     kb time_taken = 30.599 s, boosting_rounds_used = 54. Mean Accuracy : Train - 0.96554, Test - 0.93331.
+2024-04-05 12:14:30,393 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 3.287, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:14:54,236 INFO     kb time_taken = 23.843 s, boosting_rounds_used = 91. Mean Accuracy : Train - 0.97269, Test - 0.9408.
+2024-04-05 12:14:55,393 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 1.06, reg_alpha = 0.342, reg_lambda = 0.933, subsample = 1.0.
+2024-04-05 12:15:19,170 INFO     kb time_taken = 23.777 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98481, Test - 0.94435.
+2024-04-05 12:15:19,999 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 5.274, learning_rate = 0.2, max_depth = 4, min_child_weight = 1.805, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:15:50,018 INFO     kb time_taken = 30.019 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.93557, Test - 0.92446.
+2024-04-05 12:15:51,103 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 5.103, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:16:21,303 INFO     kb time_taken = 30.2 s, boosting_rounds_used = 79. Mean Accuracy : Train - 0.98062, Test - 0.93106.
+2024-04-05 12:16:22,237 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 2.592, learning_rate = 0.9, max_depth = 5, min_child_weight = 3.012, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:16:40,172 INFO     kb time_taken = 17.935 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97183, Test - 0.94152.
+2024-04-05 12:16:40,943 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 2.453, learning_rate = 0.9, max_depth = 6, min_child_weight = 2.285, reg_alpha = 1.251, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:16:56,768 INFO     kb time_taken = 15.825 s, boosting_rounds_used = 71. Mean Accuracy : Train - 0.96681, Test - 0.93864.
+2024-04-05 12:16:57,801 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 2.624, learning_rate = 0.9, max_depth = 4, min_child_weight = 3.534, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:17:10,901 INFO     kb time_taken = 13.101 s, boosting_rounds_used = 78. Mean Accuracy : Train - 0.95508, Test - 0.93774.
+2024-04-05 12:17:11,946 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 3.423, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:17:26,923 INFO     kb time_taken = 14.977 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95279, Test - 0.93651.
+2024-04-05 12:17:28,096 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 4.168, learning_rate = 0.9, max_depth = 6, min_child_weight = 3.05, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 0.5.
+2024-04-05 12:17:42,008 INFO     kb time_taken = 13.912 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.93805, Test - 0.92625.
+2024-04-05 12:17:43,045 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 2.573, learning_rate = 0.9, max_depth = 4, min_child_weight = 2.157, reg_alpha = 0.0, reg_lambda = 1.482, subsample = 1.0.
+2024-04-05 12:17:59,163 INFO     kb time_taken = 16.119 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96469, Test - 0.94031.
+2024-04-05 12:17:59,729 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 8.722, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:18:13,696 INFO     kb time_taken = 13.967 s, boosting_rounds_used = 87. Mean Accuracy : Train - 0.95308, Test - 0.9265.
+2024-04-05 12:18:14,677 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 3.071, learning_rate = 0.9, max_depth = 5, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 1.403, subsample = 1.0.
+2024-04-05 12:18:38,557 INFO     kb time_taken = 23.88 s, boosting_rounds_used = 88. Mean Accuracy : Train - 0.97052, Test - 0.94337.
+2024-04-05 12:18:39,310 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 2.579, learning_rate = 0.9, max_depth = 5, min_child_weight = 1.235, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:19:12,177 INFO     kb time_taken = 32.867 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98154, Test - 0.9408.
+2024-04-05 12:19:12,981 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 3.987, learning_rate = 0.9, max_depth = 5, min_child_weight = 0.0, reg_alpha = 1.446, reg_lambda = 1.276, subsample = 1.0.
+2024-04-05 12:19:30,946 INFO     kb time_taken = 17.965 s, boosting_rounds_used = 78. Mean Accuracy : Train - 0.95517, Test - 0.93728.
+2024-04-05 12:19:32,277 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.763, reg_alpha = 0.572, reg_lambda = 1.115, subsample = 1.0.
+2024-04-05 12:19:48,215 INFO     kb time_taken = 15.938 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96854, Test - 0.94276.
+2024-04-05 12:19:49,069 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.436, learning_rate = 0.9, max_depth = 5, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 2.931, subsample = 1.0.
+2024-04-05 12:20:16,837 INFO     kb time_taken = 27.768 s, boosting_rounds_used = 90. Mean Accuracy : Train - 0.97111, Test - 0.94207.
+2024-04-05 12:20:17,941 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 4.328, reg_alpha = 0.0, reg_lambda = 3.153, subsample = 1.0.
+2024-04-05 12:20:38,574 INFO     kb time_taken = 20.633 s, boosting_rounds_used = 72. Mean Accuracy : Train - 0.97044, Test - 0.93973.
+2024-04-05 12:20:39,492 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 3.422, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:21:10,939 INFO     kb time_taken = 31.447 s, boosting_rounds_used = 74. Mean Accuracy : Train - 0.97464, Test - 0.93991.
+2024-04-05 12:21:11,769 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 3.192, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:21:30,944 INFO     kb time_taken = 19.175 s, boosting_rounds_used = 66. Mean Accuracy : Train - 0.95881, Test - 0.93558.
+2024-04-05 12:21:31,928 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.2, max_depth = 10, min_child_weight = 2.418, reg_alpha = 3.238, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:22:20,570 INFO     kb time_taken = 48.642 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95203, Test - 0.93391.
+2024-04-05 12:22:21,622 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 3.556, reg_alpha = 0.0, reg_lambda = 1.621, subsample = 1.0.
+2024-04-05 12:22:54,144 INFO     kb time_taken = 32.522 s, boosting_rounds_used = 49. Mean Accuracy : Train - 0.97271, Test - 0.9387.
+2024-04-05 12:22:56,389 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 2.041, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:23:41,300 INFO     kb time_taken = 44.911 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96196, Test - 0.93829.
+2024-04-05 12:23:43,464 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 3.502, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.972, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:23:57,537 INFO     kb time_taken = 14.074 s, boosting_rounds_used = 41. Mean Accuracy : Train - 0.95158, Test - 0.93567.
+2024-04-05 12:23:58,889 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 1.686, reg_lambda = 2.162, subsample = 1.0.
+2024-04-05 12:24:47,124 INFO     kb time_taken = 48.235 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9756, Test - 0.94247.
+2024-04-05 12:24:49,408 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.237, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.676, reg_alpha = 1.135, reg_lambda = 2.08, subsample = 1.0.
+2024-04-05 12:25:27,703 INFO     kb time_taken = 38.295 s, boosting_rounds_used = 54. Mean Accuracy : Train - 0.97328, Test - 0.93818.
+2024-04-05 12:25:30,425 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 1.124, learning_rate = 0.9, max_depth = 9, min_child_weight = 0.36, reg_alpha = 0.0, reg_lambda = 2.299, subsample = 1.0.
+2024-04-05 12:25:54,606 INFO     kb time_taken = 24.181 s, boosting_rounds_used = 78. Mean Accuracy : Train - 0.96675, Test - 0.94112.
+2024-04-05 12:25:56,821 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 1.987, learning_rate = 0.9, max_depth = 8, min_child_weight = 2.256, reg_alpha = 0.0, reg_lambda = 0.99, subsample = 1.0.
+2024-04-05 12:26:23,522 INFO     kb time_taken = 26.701 s, boosting_rounds_used = 58. Mean Accuracy : Train - 0.97288, Test - 0.94017.
+2024-04-05 12:26:25,385 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.867, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.34, reg_alpha = 0.0, reg_lambda = 1.696, subsample = 1.0.
+2024-04-05 12:26:55,049 INFO     kb time_taken = 29.664 s, boosting_rounds_used = 67. Mean Accuracy : Train - 0.97517, Test - 0.94109.
+2024-04-05 12:26:57,039 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 10.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 0.5.
+2024-04-05 12:27:08,550 INFO     kb time_taken = 11.511 s, boosting_rounds_used = 45. Mean Accuracy : Train - 0.91905, Test - 0.91316.
+2024-04-05 12:27:10,655 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 2.917, learning_rate = 0.9, max_depth = 5, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 2.196, subsample = 1.0.
+2024-04-05 12:27:49,788 INFO     kb time_taken = 39.133 s, boosting_rounds_used = 86. Mean Accuracy : Train - 0.96687, Test - 0.94028.
+2024-04-05 12:27:51,513 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 7.5, reg_alpha = 5.0, reg_lambda = 5.0, subsample = 0.5.
+2024-04-05 12:28:19,785 INFO     kb time_taken = 28.272 s, boosting_rounds_used = 50. Mean Accuracy : Train - 0.94099, Test - 0.92284.
+2024-04-05 12:28:22,138 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 3.677, reg_alpha = 1.25, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:28:47,170 INFO     kb time_taken = 25.033 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95691, Test - 0.93835.
+2024-04-05 12:28:49,187 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.053, learning_rate = 0.9, max_depth = 6, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:29:11,938 INFO     kb time_taken = 22.751 s, boosting_rounds_used = 66. Mean Accuracy : Train - 0.96046, Test - 0.93844.
+2024-04-05 12:29:14,471 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.038, reg_alpha = 1.19, reg_lambda = 2.835, subsample = 1.0.
+2024-04-05 12:29:40,546 INFO     kb time_taken = 26.075 s, boosting_rounds_used = 63. Mean Accuracy : Train - 0.97053, Test - 0.94045.
+2024-04-05 12:29:42,343 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 1.368, learning_rate = 0.9, max_depth = 6, min_child_weight = 3.042, reg_alpha = 0.0, reg_lambda = 1.803, subsample = 1.0.
+2024-04-05 12:30:32,897 INFO     kb time_taken = 50.554 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97743, Test - 0.94146.
+2024-04-05 12:30:35,329 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.989, reg_alpha = 5.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:31:00,632 INFO     kb time_taken = 25.304 s, boosting_rounds_used = 86. Mean Accuracy : Train - 0.95404, Test - 0.9372.
+2024-04-05 12:31:02,316 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.97, learning_rate = 0.9, max_depth = 7, min_child_weight = 2.22, reg_alpha = 0.973, reg_lambda = 2.095, subsample = 1.0.
+2024-04-05 12:31:33,871 INFO     kb time_taken = 31.555 s, boosting_rounds_used = 86. Mean Accuracy : Train - 0.97305, Test - 0.94181.
+2024-04-05 12:31:36,241 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.2, max_depth = 10, min_child_weight = 7.5, reg_alpha = 2.097, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:32:33,905 INFO     kb time_taken = 57.664 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9551, Test - 0.93656.
+2024-04-05 12:32:39,058 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 2.308, reg_alpha = 2.585, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:33:05,625 INFO     kb time_taken = 26.567 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95214, Test - 0.93535.
+2024-04-05 12:33:07,490 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 4.047, subsample = 1.0.
+2024-04-05 12:34:18,818 INFO     kb time_taken = 71.329 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98779, Test - 0.94564.
+2024-04-05 12:34:21,457 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 1.637, learning_rate = 0.9, max_depth = 10, min_child_weight = 4.761, reg_alpha = 0.0, reg_lambda = 2.982, subsample = 1.0.
+2024-04-05 12:34:44,072 INFO     kb time_taken = 22.615 s, boosting_rounds_used = 78. Mean Accuracy : Train - 0.96089, Test - 0.93702.
+2024-04-05 12:34:46,617 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 1.766, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:35:29,448 INFO     kb time_taken = 42.831 s, boosting_rounds_used = 40. Mean Accuracy : Train - 0.96812, Test - 0.93852.
+2024-04-05 12:35:31,063 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 3.818, subsample = 1.0.
+2024-04-05 12:35:58,861 INFO     kb time_taken = 27.799 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96213, Test - 0.93806.
+2024-04-05 12:36:01,001 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.617, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:36:34,915 INFO     kb time_taken = 33.914 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98921, Test - 0.94264.
+2024-04-05 12:36:37,182 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 10.0, learning_rate = 0.2, max_depth = 10, min_child_weight = 7.5, reg_alpha = 5.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:37:00,562 INFO     kb time_taken = 23.38 s, boosting_rounds_used = 90. Mean Accuracy : Train - 0.92433, Test - 0.91766.
+2024-04-05 12:37:02,409 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 2.567, subsample = 1.0.
+2024-04-05 12:38:33,513 INFO     kb time_taken = 91.104 s, boosting_rounds_used = 70. Mean Accuracy : Train - 0.97203, Test - 0.93564.
+2024-04-05 12:38:35,852 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 3.802, subsample = 1.0.
+2024-04-05 12:39:08,710 INFO     kb time_taken = 32.858 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96929, Test - 0.94034.
+2024-04-05 12:39:10,883 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 4.146, reg_alpha = 1.977, reg_lambda = 1.693, subsample = 1.0.
+2024-04-05 12:40:10,050 INFO     kb time_taken = 59.166 s, boosting_rounds_used = 77. Mean Accuracy : Train - 0.97474, Test - 0.9387.
+2024-04-05 12:40:12,178 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 2.059, subsample = 1.0.
+2024-04-05 12:40:51,253 INFO     kb time_taken = 39.074 s, boosting_rounds_used = 84. Mean Accuracy : Train - 0.95981, Test - 0.93665.
+2024-04-05 12:40:53,129 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 4.483, reg_alpha = 0.0, reg_lambda = 1.855, subsample = 1.0.
+2024-04-05 12:41:17,993 INFO     kb time_taken = 24.864 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96118, Test - 0.93812.
+2024-04-05 12:41:19,770 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 3.785, learning_rate = 0.9, max_depth = 6, min_child_weight = 1.28, reg_alpha = 0.0, reg_lambda = 1.461, subsample = 1.0.
+2024-04-05 12:41:43,160 INFO     kb time_taken = 23.391 s, boosting_rounds_used = 72. Mean Accuracy : Train - 0.96544, Test - 0.94037.
+2024-04-05 12:41:44,955 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.965, reg_alpha = 0.0, reg_lambda = 1.288, subsample = 1.0.
+2024-04-05 12:42:21,684 INFO     kb time_taken = 36.729 s, boosting_rounds_used = 86. Mean Accuracy : Train - 0.98109, Test - 0.94123.
+2024-04-05 12:42:23,778 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.816, reg_alpha = 2.87, reg_lambda = 1.843, subsample = 1.0.
+2024-04-05 12:42:57,127 INFO     kb time_taken = 33.349 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9683, Test - 0.94146.
+2024-04-05 12:42:58,704 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 3.99, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:43:17,282 INFO     kb time_taken = 18.578 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.92423, Test - 0.91503.
+2024-04-05 12:43:19,526 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 3.8, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 1.099, subsample = 1.0.
+2024-04-05 12:43:42,356 INFO     kb time_taken = 22.829 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96332, Test - 0.93979.
+2024-04-05 12:43:44,708 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 2.266, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:44:08,843 INFO     kb time_taken = 24.135 s, boosting_rounds_used = 56. Mean Accuracy : Train - 0.96204, Test - 0.93766.
+2024-04-05 12:44:10,951 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 10.0, learning_rate = 0.2, max_depth = 10, min_child_weight = 4.659, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:45:07,804 INFO     kb time_taken = 56.853 s, boosting_rounds_used = 57. Mean Accuracy : Train - 0.94681, Test - 0.92913.
+2024-04-05 12:45:09,940 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 7.5, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:45:48,661 INFO     kb time_taken = 38.721 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95778, Test - 0.93414.
+2024-04-05 12:45:51,041 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 1.516, learning_rate = 0.2, max_depth = 10, min_child_weight = 2.185, reg_alpha = 0.0, reg_lambda = 0.93, subsample = 1.0.
+2024-04-05 12:46:27,679 INFO     kb time_taken = 36.638 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95742, Test - 0.94043.
+2024-04-05 12:46:29,801 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 3.269, learning_rate = 0.9, max_depth = 4, min_child_weight = 4.177, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:47:02,858 INFO     kb time_taken = 33.056 s, boosting_rounds_used = 74. Mean Accuracy : Train - 0.96057, Test - 0.93656.
+2024-04-05 12:47:05,942 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 2.808, learning_rate = 0.9, max_depth = 4, min_child_weight = 3.329, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:47:27,858 INFO     kb time_taken = 21.915 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95328, Test - 0.93656.
+2024-04-05 12:47:30,532 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 0.0, reg_alpha = 2.256, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:48:26,376 INFO     kb time_taken = 55.844 s, boosting_rounds_used = 74. Mean Accuracy : Train - 0.9807, Test - 0.94161.
+2024-04-05 12:48:27,830 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.295, reg_alpha = 3.211, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:48:50,790 INFO     kb time_taken = 22.96 s, boosting_rounds_used = 63. Mean Accuracy : Train - 0.96332, Test - 0.93945.
+2024-04-05 12:48:52,908 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 0.855, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 12:49:18,258 INFO     kb time_taken = 25.349 s, boosting_rounds_used = 70. Mean Accuracy : Train - 0.97088, Test - 0.94143.
+2024-04-05 12:49:20,061 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 4.012, reg_alpha = 2.27, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:49:45,439 INFO     kb time_taken = 25.378 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96119, Test - 0.93994.
+2024-04-05 12:49:49,154 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 3.525, subsample = 1.0.
+2024-04-05 12:51:19,917 INFO     kb time_taken = 90.763 s, boosting_rounds_used = 91. Mean Accuracy : Train - 0.99108, Test - 0.94397.
+2024-04-05 12:51:23,128 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.151, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.455, reg_alpha = 0.0, reg_lambda = 1.343, subsample = 1.0.
+2024-04-05 12:52:05,551 INFO     kb time_taken = 42.423 s, boosting_rounds_used = 82. Mean Accuracy : Train - 0.98119, Test - 0.94241.
+2024-04-05 12:52:08,009 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:55:20,739 INFO     kb time_taken = 192.73 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.99986, Test - 0.93754.
+2024-04-05 12:55:22,617 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 3.037, subsample = 1.0.
+2024-04-05 12:57:09,435 INFO     kb time_taken = 106.818 s, boosting_rounds_used = 69. Mean Accuracy : Train - 0.9864, Test - 0.94288.
+2024-04-05 12:57:11,583 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.2, max_depth = 6, min_child_weight = 5.324, reg_alpha = 0.0, reg_lambda = 3.011, subsample = 1.0.
+2024-04-05 12:57:46,815 INFO     kb time_taken = 35.232 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94129, Test - 0.9289.
+2024-04-05 12:57:48,855 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.282, learning_rate = 0.9, max_depth = 4, min_child_weight = 3.042, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:58:12,931 INFO     kb time_taken = 24.077 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96732, Test - 0.93973.
+2024-04-05 12:58:15,217 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.72, reg_alpha = 0.0, reg_lambda = 1.044, subsample = 1.0.
+2024-04-05 12:58:39,107 INFO     kb time_taken = 23.89 s, boosting_rounds_used = 83. Mean Accuracy : Train - 0.97273, Test - 0.94267.
+2024-04-05 12:58:41,585 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 2.847, reg_alpha = 1.738, reg_lambda = 0.779, subsample = 1.0.
+2024-04-05 12:59:15,922 INFO     kb time_taken = 34.337 s, boosting_rounds_used = 57. Mean Accuracy : Train - 0.97284, Test - 0.93973.
+2024-04-05 12:59:18,562 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 1.762, learning_rate = 0.9, max_depth = 10, min_child_weight = 2.36, reg_alpha = 1.932, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 12:59:35,896 INFO     kb time_taken = 17.333 s, boosting_rounds_used = 66. Mean Accuracy : Train - 0.9528, Test - 0.93357.
+2024-04-05 12:59:37,862 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.099, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.863, reg_alpha = 0.0, reg_lambda = 0.94, subsample = 1.0.
+2024-04-05 13:00:11,803 INFO     kb time_taken = 33.941 s, boosting_rounds_used = 87. Mean Accuracy : Train - 0.98529, Test - 0.94544.
+2024-04-05 13:00:13,684 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 3.055, reg_alpha = 5.0, reg_lambda = 2.834, subsample = 1.0.
+2024-04-05 13:00:40,896 INFO     kb time_taken = 27.213 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95155, Test - 0.93628.
+2024-04-05 13:00:43,049 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 1.511, reg_alpha = 1.02, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:01:03,635 INFO     kb time_taken = 20.586 s, boosting_rounds_used = 77. Mean Accuracy : Train - 0.95817, Test - 0.93815.
+2024-04-05 13:01:05,876 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.003, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 4.017, subsample = 1.0.
+2024-04-05 13:02:16,214 INFO     kb time_taken = 70.338 s, boosting_rounds_used = 56. Mean Accuracy : Train - 0.98114, Test - 0.94031.
+2024-04-05 13:02:18,640 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 3.04, learning_rate = 0.9, max_depth = 4, min_child_weight = 2.273, reg_alpha = 1.05, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:02:40,028 INFO     kb time_taken = 21.388 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96067, Test - 0.93875.
+2024-04-05 13:02:42,964 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 1.077, learning_rate = 0.9, max_depth = 6, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 2.904, subsample = 1.0.
+2024-04-05 13:03:33,295 INFO     kb time_taken = 50.33 s, boosting_rounds_used = 75. Mean Accuracy : Train - 0.9748, Test - 0.94066.
+2024-04-05 13:03:35,204 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 5.361, reg_alpha = 2.995, reg_lambda = 1.605, subsample = 1.0.
+2024-04-05 13:03:58,221 INFO     kb time_taken = 23.018 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95332, Test - 0.93682.
+2024-04-05 13:04:00,368 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.037, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.51, reg_alpha = 0.0, reg_lambda = 2.948, subsample = 1.0.
+2024-04-05 13:04:24,684 INFO     kb time_taken = 24.316 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97258, Test - 0.94377.
+2024-04-05 13:04:26,732 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 1.144, learning_rate = 0.9, max_depth = 8, min_child_weight = 2.919, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:04:59,672 INFO     kb time_taken = 32.94 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97265, Test - 0.94155.
+2024-04-05 13:05:01,527 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.946, learning_rate = 0.9, max_depth = 5, min_child_weight = 1.839, reg_alpha = 0.0, reg_lambda = 3.027, subsample = 1.0.
+2024-04-05 13:05:28,813 INFO     kb time_taken = 27.286 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9702, Test - 0.94192.
+2024-04-05 13:05:30,968 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.652, reg_alpha = 1.412, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:06:06,903 INFO     kb time_taken = 35.936 s, boosting_rounds_used = 81. Mean Accuracy : Train - 0.97912, Test - 0.9419.
+2024-04-05 13:06:09,001 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 1.324, learning_rate = 0.9, max_depth = 7, min_child_weight = 2.825, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:06:29,376 INFO     kb time_taken = 20.375 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95805, Test - 0.93838.
+2024-04-05 13:06:31,108 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 2.015, learning_rate = 0.2, max_depth = 10, min_child_weight = 3.624, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:07:06,754 INFO     kb time_taken = 35.646 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94764, Test - 0.93443.
+2024-04-05 13:07:09,533 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 0.751, reg_alpha = 0.0, reg_lambda = 2.377, subsample = 1.0.
+2024-04-05 13:07:36,903 INFO     kb time_taken = 27.37 s, boosting_rounds_used = 91. Mean Accuracy : Train - 0.97876, Test - 0.94394.
+2024-04-05 13:07:38,993 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 2.456, learning_rate = 0.2, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 0.49, subsample = 1.0.
+2024-04-05 13:09:19,094 INFO     kb time_taken = 100.102 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97093, Test - 0.94008.
+2024-04-05 13:09:21,635 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 1.358, subsample = 1.0.
+2024-04-05 13:10:32,867 INFO     kb time_taken = 71.232 s, boosting_rounds_used = 80. Mean Accuracy : Train - 0.9937, Test - 0.94452.
+2024-04-05 13:10:36,047 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 4.69, learning_rate = 0.2, max_depth = 10, min_child_weight = 3.42, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:12:04,560 INFO     kb time_taken = 88.513 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96445, Test - 0.93919.
+2024-04-05 13:12:06,854 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:12:27,193 INFO     kb time_taken = 20.339 s, boosting_rounds_used = 56. Mean Accuracy : Train - 0.95868, Test - 0.93313.
+2024-04-05 13:12:29,622 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.921, learning_rate = 0.9, max_depth = 6, min_child_weight = 1.429, reg_alpha = 0.0, reg_lambda = 1.607, subsample = 1.0.
+2024-04-05 13:12:59,581 INFO     kb time_taken = 29.959 s, boosting_rounds_used = 75. Mean Accuracy : Train - 0.97139, Test - 0.94043.
+2024-04-05 13:13:03,638 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 0.632, reg_alpha = 1.338, reg_lambda = 1.021, subsample = 1.0.
+2024-04-05 13:13:27,647 INFO     kb time_taken = 24.008 s, boosting_rounds_used = 89. Mean Accuracy : Train - 0.96884, Test - 0.94325.
+2024-04-05 13:13:31,350 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 2.196, learning_rate = 0.9, max_depth = 8, min_child_weight = 0.785, reg_alpha = 0.0, reg_lambda = 1.794, subsample = 1.0.
+2024-04-05 13:13:57,837 INFO     kb time_taken = 26.487 s, boosting_rounds_used = 63. Mean Accuracy : Train - 0.97458, Test - 0.94141.
+2024-04-05 13:14:00,581 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 10.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 7.5, reg_alpha = 5.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:14:15,329 INFO     kb time_taken = 14.748 s, boosting_rounds_used = 77. Mean Accuracy : Train - 0.92439, Test - 0.91763.
+2024-04-05 13:14:17,091 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 6.312, learning_rate = 0.2, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:17:49,961 INFO     kb time_taken = 212.87 s, boosting_rounds_used = 74. Mean Accuracy : Train - 0.96435, Test - 0.93469.
+2024-04-05 13:17:53,043 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.2, max_depth = 10, min_child_weight = 7.5, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:18:26,143 INFO     kb time_taken = 33.1 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94165, Test - 0.931.
+2024-04-05 13:18:29,003 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 2.642, reg_alpha = 1.283, reg_lambda = 3.354, subsample = 1.0.
+2024-04-05 13:18:58,623 INFO     kb time_taken = 29.621 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96959, Test - 0.94337.
+2024-04-05 13:19:00,597 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 3.963, learning_rate = 0.9, max_depth = 4, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:19:22,299 INFO     kb time_taken = 21.702 s, boosting_rounds_used = 58. Mean Accuracy : Train - 0.94687, Test - 0.93218.
+2024-04-05 13:19:24,048 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 2.943, reg_alpha = 2.762, reg_lambda = 2.965, subsample = 1.0.
+2024-04-05 13:19:47,305 INFO     kb time_taken = 23.257 s, boosting_rounds_used = 83. Mean Accuracy : Train - 0.96275, Test - 0.94103.
+2024-04-05 13:19:49,438 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.689, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.22, reg_alpha = 0.0, reg_lambda = 0.728, subsample = 1.0.
+2024-04-05 13:20:34,245 INFO     kb time_taken = 44.807 s, boosting_rounds_used = 87. Mean Accuracy : Train - 0.99117, Test - 0.94391.
+2024-04-05 13:20:36,994 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 3.498, reg_alpha = 4.101, reg_lambda = 3.444, subsample = 1.0.
+2024-04-05 13:21:05,322 INFO     kb time_taken = 28.328 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95832, Test - 0.93766.
+2024-04-05 13:21:07,470 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.442, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.0, reg_alpha = 2.584, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:21:43,852 INFO     kb time_taken = 36.383 s, boosting_rounds_used = 51. Mean Accuracy : Train - 0.96596, Test - 0.93674.
+2024-04-05 13:21:45,857 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.335, reg_alpha = 0.0, reg_lambda = 0.802, subsample = 1.0.
+2024-04-05 13:22:20,808 INFO     kb time_taken = 34.95 s, boosting_rounds_used = 72. Mean Accuracy : Train - 0.98354, Test - 0.94267.
+2024-04-05 13:22:23,730 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 5.472, reg_alpha = 1.82, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:22:59,560 INFO     kb time_taken = 35.83 s, boosting_rounds_used = 58. Mean Accuracy : Train - 0.972, Test - 0.93504.
+2024-04-05 13:23:02,021 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 1.373, learning_rate = 0.9, max_depth = 6, min_child_weight = 2.459, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:23:42,992 INFO     kb time_taken = 40.97 s, boosting_rounds_used = 63. Mean Accuracy : Train - 0.97301, Test - 0.9404.
+2024-04-05 13:23:46,161 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.048, reg_alpha = 1.355, reg_lambda = 1.048, subsample = 1.0.
+2024-04-05 13:24:16,753 INFO     kb time_taken = 30.592 s, boosting_rounds_used = 89. Mean Accuracy : Train - 0.97442, Test - 0.9429.
+2024-04-05 13:24:18,478 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 0.58, reg_alpha = 0.0, reg_lambda = 3.763, subsample = 1.0.
+2024-04-05 13:24:54,834 INFO     kb time_taken = 36.356 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97795, Test - 0.94149.
+2024-04-05 13:24:57,833 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 3.024, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 2.836, subsample = 1.0.
+2024-04-05 13:25:29,500 INFO     kb time_taken = 31.667 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96332, Test - 0.93956.
+2024-04-05 13:25:31,542 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.205, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 2.074, subsample = 1.0.
+2024-04-05 13:26:37,556 INFO     kb time_taken = 66.014 s, boosting_rounds_used = 71. Mean Accuracy : Train - 0.98448, Test - 0.94175.
+2024-04-05 13:26:40,102 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 2.746, reg_alpha = 0.0, reg_lambda = 4.39, subsample = 1.0.
+2024-04-05 13:27:09,386 INFO     kb time_taken = 29.284 s, boosting_rounds_used = 67. Mean Accuracy : Train - 0.97062, Test - 0.93994.
+2024-04-05 13:27:11,784 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 2.274, reg_alpha = 2.463, reg_lambda = 3.415, subsample = 1.0.
+2024-04-05 13:27:34,722 INFO     kb time_taken = 22.938 s, boosting_rounds_used = 91. Mean Accuracy : Train - 0.95943, Test - 0.94034.
+2024-04-05 13:27:36,826 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.614, reg_alpha = 0.0, reg_lambda = 1.285, subsample = 1.0.
+2024-04-05 13:28:08,848 INFO     kb time_taken = 32.022 s, boosting_rounds_used = 83. Mean Accuracy : Train - 0.98585, Test - 0.94541.
+2024-04-05 13:28:11,325 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 5.208, learning_rate = 0.9, max_depth = 10, min_child_weight = 7.5, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:28:20,765 INFO     kb time_taken = 9.441 s, boosting_rounds_used = 32. Mean Accuracy : Train - 0.93269, Test - 0.92382.
+2024-04-05 13:28:23,182 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 2.957, reg_alpha = 1.156, reg_lambda = 3.089, subsample = 1.0.
+2024-04-05 13:28:48,001 INFO     kb time_taken = 24.819 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96681, Test - 0.94143.
+2024-04-05 13:28:49,989 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 2.256, learning_rate = 0.9, max_depth = 4, min_child_weight = 3.833, reg_alpha = 0.0, reg_lambda = 1.939, subsample = 1.0.
+2024-04-05 13:29:09,584 INFO     kb time_taken = 19.595 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95688, Test - 0.93809.
+2024-04-05 13:29:12,478 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 3.328, reg_alpha = 1.715, reg_lambda = 2.287, subsample = 1.0.
+2024-04-05 13:29:38,978 INFO     kb time_taken = 26.499 s, boosting_rounds_used = 81. Mean Accuracy : Train - 0.96464, Test - 0.94092.
+2024-04-05 13:29:42,244 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 7.197, learning_rate = 0.9, max_depth = 7, min_child_weight = 4.219, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:30:04,848 INFO     kb time_taken = 22.604 s, boosting_rounds_used = 34. Mean Accuracy : Train - 0.95577, Test - 0.93394.
+2024-04-05 13:30:07,043 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 2.154, reg_alpha = 3.166, reg_lambda = 2.183, subsample = 1.0.
+2024-04-05 13:31:05,092 INFO     kb time_taken = 58.049 s, boosting_rounds_used = 85. Mean Accuracy : Train - 0.9731, Test - 0.93864.
+2024-04-05 13:31:07,562 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 0.0, reg_alpha = 2.582, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:31:50,605 INFO     kb time_taken = 43.043 s, boosting_rounds_used = 52. Mean Accuracy : Train - 0.96093, Test - 0.93653.
+2024-04-05 13:31:52,628 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 10.0, learning_rate = 0.2, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:32:42,277 INFO     kb time_taken = 49.65 s, boosting_rounds_used = 69. Mean Accuracy : Train - 0.94808, Test - 0.92996.
+2024-04-05 13:32:44,854 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 2.198, reg_alpha = 1.052, reg_lambda = 3.392, subsample = 1.0.
+2024-04-05 13:33:10,833 INFO     kb time_taken = 25.979 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96834, Test - 0.94233.
+2024-04-05 13:33:12,954 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.376, learning_rate = 0.9, max_depth = 10, min_child_weight = 2.622, reg_alpha = 0.0, reg_lambda = 3.643, subsample = 1.0.
+2024-04-05 13:33:33,921 INFO     kb time_taken = 20.967 s, boosting_rounds_used = 68. Mean Accuracy : Train - 0.96684, Test - 0.9402.
+2024-04-05 13:33:36,534 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.071, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.581, reg_alpha = 0.0, reg_lambda = 1.526, subsample = 1.0.
+2024-04-05 13:33:56,959 INFO     kb time_taken = 20.425 s, boosting_rounds_used = 77. Mean Accuracy : Train - 0.97067, Test - 0.94391.
+2024-04-05 13:33:59,644 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.473, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 1.099, subsample = 1.0.
+2024-04-05 13:35:04,264 INFO     kb time_taken = 64.621 s, boosting_rounds_used = 71. Mean Accuracy : Train - 0.98836, Test - 0.94239.
+2024-04-05 13:35:06,238 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.239, reg_alpha = 0.976, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:35:28,523 INFO     kb time_taken = 22.284 s, boosting_rounds_used = 63. Mean Accuracy : Train - 0.97282, Test - 0.94149.
+2024-04-05 13:35:30,305 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 1.322, reg_alpha = 1.446, reg_lambda = 3.244, subsample = 1.0.
+2024-04-05 13:36:01,509 INFO     kb time_taken = 31.204 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97183, Test - 0.94152.
+2024-04-05 13:36:04,322 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.505, learning_rate = 0.2, max_depth = 10, min_child_weight = 0.913, reg_alpha = 0.0, reg_lambda = 0.889, subsample = 1.0.
+2024-04-05 13:36:46,968 INFO     kb time_taken = 42.645 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96126, Test - 0.94002.
+2024-04-05 13:36:50,033 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 7.845, learning_rate = 0.9, max_depth = 4, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:37:05,509 INFO     kb time_taken = 15.476 s, boosting_rounds_used = 46. Mean Accuracy : Train - 0.93449, Test - 0.92581.
+2024-04-05 13:37:07,807 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 3.323, learning_rate = 0.9, max_depth = 5, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:37:34,795 INFO     kb time_taken = 26.989 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97318, Test - 0.93299.
+2024-04-05 13:37:37,569 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.963, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.106, reg_alpha = 0.0, reg_lambda = 0.891, subsample = 1.0.
+2024-04-05 13:38:10,704 INFO     kb time_taken = 33.136 s, boosting_rounds_used = 93. Mean Accuracy : Train - 0.98566, Test - 0.9457.
+2024-04-05 13:38:14,156 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 3.87, learning_rate = 0.9, max_depth = 6, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 2.318, subsample = 1.0.
+2024-04-05 13:38:35,294 INFO     kb time_taken = 21.138 s, boosting_rounds_used = 81. Mean Accuracy : Train - 0.9576, Test - 0.93746.
+2024-04-05 13:38:38,243 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.765, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 1.15, subsample = 1.0.
+2024-04-05 13:39:06,961 INFO     kb time_taken = 28.719 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9832, Test - 0.9444.
+2024-04-05 13:39:09,597 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 0.0, reg_alpha = 0.487, reg_lambda = 3.866, subsample = 1.0.
+2024-04-05 13:40:11,877 INFO     kb time_taken = 62.28 s, boosting_rounds_used = 83. Mean Accuracy : Train - 0.98383, Test - 0.94463.
+2024-04-05 13:40:15,858 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 2.73, learning_rate = 0.9, max_depth = 6, min_child_weight = 1.968, reg_alpha = 0.0, reg_lambda = 1.096, subsample = 1.0.
+2024-04-05 13:40:57,580 INFO     kb time_taken = 41.723 s, boosting_rounds_used = 75. Mean Accuracy : Train - 0.97444, Test - 0.94218.
+2024-04-05 13:41:00,301 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.277, learning_rate = 0.9, max_depth = 9, min_child_weight = 1.992, reg_alpha = 1.451, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:41:23,360 INFO     kb time_taken = 23.059 s, boosting_rounds_used = 79. Mean Accuracy : Train - 0.95961, Test - 0.93904.
+2024-04-05 13:41:25,896 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.684, reg_alpha = 5.0, reg_lambda = 1.288, subsample = 1.0.
+2024-04-05 13:41:46,157 INFO     kb time_taken = 20.261 s, boosting_rounds_used = 71. Mean Accuracy : Train - 0.95514, Test - 0.937.
+2024-04-05 13:41:48,250 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 4.271, learning_rate = 0.9, max_depth = 10, min_child_weight = 2.137, reg_alpha = 0.0, reg_lambda = 1.298, subsample = 1.0.
+2024-04-05 13:42:06,712 INFO     kb time_taken = 18.463 s, boosting_rounds_used = 52. Mean Accuracy : Train - 0.96461, Test - 0.93956.
+2024-04-05 13:42:08,572 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 1.882, reg_alpha = 0.0, reg_lambda = 2.413, subsample = 1.0.
+2024-04-05 13:42:36,237 INFO     kb time_taken = 27.666 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98033, Test - 0.94198.
+2024-04-05 13:42:37,876 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 0.794, reg_alpha = 0.0, reg_lambda = 3.659, subsample = 1.0.
+2024-04-05 13:42:58,493 INFO     kb time_taken = 20.617 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97776, Test - 0.94472.
+2024-04-05 13:42:59,782 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.681, learning_rate = 0.9, max_depth = 6, min_child_weight = 2.102, reg_alpha = 0.83, reg_lambda = 1.576, subsample = 1.0.
+2024-04-05 13:43:18,993 INFO     kb time_taken = 19.211 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97125, Test - 0.94253.
+2024-04-05 13:43:20,321 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.2, max_depth = 4, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 0.5.
+2024-04-05 13:43:39,551 INFO     kb time_taken = 19.23 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.92524, Test - 0.91881.
+2024-04-05 13:43:40,791 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 2.757, learning_rate = 0.2, max_depth = 10, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:44:13,776 INFO     kb time_taken = 32.985 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95047, Test - 0.93316.
+2024-04-05 13:44:14,989 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 1.351, learning_rate = 0.9, max_depth = 4, min_child_weight = 1.191, reg_alpha = 1.106, reg_lambda = 3.884, subsample = 1.0.
+2024-04-05 13:44:44,189 INFO     kb time_taken = 29.201 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96381, Test - 0.93841.
+2024-04-05 13:44:45,551 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 2.145, subsample = 1.0.
+2024-04-05 13:45:38,998 INFO     kb time_taken = 53.447 s, boosting_rounds_used = 80. Mean Accuracy : Train - 0.99088, Test - 0.94423.
+2024-04-05 13:45:40,306 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 2.746, learning_rate = 0.9, max_depth = 6, min_child_weight = 0.566, reg_alpha = 0.793, reg_lambda = 1.176, subsample = 1.0.
+2024-04-05 13:46:09,042 INFO     kb time_taken = 28.736 s, boosting_rounds_used = 60. Mean Accuracy : Train - 0.96856, Test - 0.93878.
+2024-04-05 13:46:10,304 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 5.181, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:46:23,755 INFO     kb time_taken = 13.451 s, boosting_rounds_used = 36. Mean Accuracy : Train - 0.93943, Test - 0.92368.
+2024-04-05 13:46:25,011 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 10.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 7.5, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:46:36,684 INFO     kb time_taken = 11.673 s, boosting_rounds_used = 73. Mean Accuracy : Train - 0.93971, Test - 0.92725.
+2024-04-05 13:46:38,231 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 2.698, reg_alpha = 1.369, reg_lambda = 3.078, subsample = 1.0.
+2024-04-05 13:46:52,745 INFO     kb time_taken = 14.514 s, boosting_rounds_used = 81. Mean Accuracy : Train - 0.95616, Test - 0.93795.
+2024-04-05 13:46:55,100 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 5, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 3.732, subsample = 1.0.
+2024-04-05 13:48:30,135 INFO     kb time_taken = 95.035 s, boosting_rounds_used = 75. Mean Accuracy : Train - 0.9733, Test - 0.93976.
+2024-04-05 13:48:31,601 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 1.517, learning_rate = 0.9, max_depth = 4, min_child_weight = 1.527, reg_alpha = 0.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:48:47,688 INFO     kb time_taken = 16.086 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.9605, Test - 0.93968.
+2024-04-05 13:48:48,841 INFO     kb Current Parameters : colsample_bylevel = 0.666, colsample_bynode = 0.2, colsample_bytree = 0.55, gamma = 0.706, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.918, reg_alpha = 0.0, reg_lambda = 0.871, subsample = 0.5.
+2024-04-05 13:49:06,884 INFO     kb time_taken = 18.043 s, boosting_rounds_used = 53. Mean Accuracy : Train - 0.96606, Test - 0.93302.
+2024-04-05 13:49:08,177 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 2.118, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.331, reg_alpha = 0.0, reg_lambda = 1.457, subsample = 1.0.
+2024-04-05 13:49:30,544 INFO     kb time_taken = 22.367 s, boosting_rounds_used = 58. Mean Accuracy : Train - 0.97752, Test - 0.94086.
+2024-04-05 13:49:32,016 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 1.717, reg_alpha = 0.0, reg_lambda = 0.495, subsample = 1.0.
+2024-04-05 13:50:06,134 INFO     kb time_taken = 34.118 s, boosting_rounds_used = 82. Mean Accuracy : Train - 0.99053, Test - 0.94218.
+2024-04-05 13:50:07,455 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.705, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.954, reg_alpha = 0.0, reg_lambda = 1.849, subsample = 1.0.
+2024-04-05 13:50:27,684 INFO     kb time_taken = 20.229 s, boosting_rounds_used = 72. Mean Accuracy : Train - 0.9785, Test - 0.94256.
+2024-04-05 13:50:29,230 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.2, max_depth = 4, min_child_weight = 2.587, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:50:48,912 INFO     kb time_taken = 19.683 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.92815, Test - 0.91901.
+2024-04-05 13:50:50,822 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.2, max_depth = 10, min_child_weight = 7.5, reg_alpha = 1.816, reg_lambda = 2.951, subsample = 1.0.
+2024-04-05 13:51:12,358 INFO     kb time_taken = 21.536 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.94482, Test - 0.93282.
+2024-04-05 13:51:13,407 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 8, min_child_weight = 3.803, reg_alpha = 3.701, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:51:29,009 INFO     kb time_taken = 15.601 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95546, Test - 0.93867.
+2024-04-05 13:51:30,386 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 4, min_child_weight = 2.803, reg_alpha = 5.0, reg_lambda = 5.0, subsample = 1.0.
+2024-04-05 13:51:56,953 INFO     kb time_taken = 26.566 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.95661, Test - 0.93411.
+2024-04-05 13:51:58,143 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 1.481, learning_rate = 0.9, max_depth = 8, min_child_weight = 2.722, reg_alpha = 1.505, reg_lambda = 2.983, subsample = 1.0.
+2024-04-05 13:52:14,058 INFO     kb time_taken = 15.916 s, boosting_rounds_used = 58. Mean Accuracy : Train - 0.96348, Test - 0.93861.
+2024-04-05 13:52:15,247 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 7, min_child_weight = 2.836, reg_alpha = 3.121, reg_lambda = 1.5, subsample = 1.0.
+2024-04-05 13:52:33,015 INFO     kb time_taken = 17.768 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96436, Test - 0.93936.
+2024-04-05 13:52:34,325 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 1.853, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.606, reg_alpha = 0.0, reg_lambda = 0.151, subsample = 1.0.
+2024-04-05 13:52:51,402 INFO     kb time_taken = 17.077 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98389, Test - 0.94394.
+2024-04-05 13:52:53,037 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.373, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:53:23,113 INFO     kb time_taken = 30.076 s, boosting_rounds_used = 93. Mean Accuracy : Train - 0.99876, Test - 0.94008.
+2024-04-05 13:53:24,637 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:53:41,708 INFO     kb time_taken = 17.071 s, boosting_rounds_used = 55. Mean Accuracy : Train - 0.95573, Test - 0.9359.
+2024-04-05 13:53:43,195 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.917, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 3.019, subsample = 1.0.
+2024-04-05 13:54:29,400 INFO     kb time_taken = 46.204 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.98428, Test - 0.94423.
+2024-04-05 13:54:30,664 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.0, learning_rate = 0.9, max_depth = 6, min_child_weight = 3.639, reg_alpha = 1.33, reg_lambda = 0.0, subsample = 1.0.
+2024-04-05 13:54:46,704 INFO     kb time_taken = 16.04 s, boosting_rounds_used = 92. Mean Accuracy : Train - 0.96586, Test - 0.94152.
+2024-04-05 13:54:48,135 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 0.2, gamma = 10.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 0.0, reg_alpha = 5.0, reg_lambda = 5.0, subsample = 0.5.
+2024-04-05 13:55:02,556 INFO     kb time_taken = 14.421 s, boosting_rounds_used = 83. Mean Accuracy : Train - 0.91689, Test - 0.91146.
+2024-04-05 13:55:04,549 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 10, min_child_weight = 2.587, reg_alpha = 1.18, reg_lambda = 3.561, subsample = 1.0.
+2024-04-05 13:55:43,924 INFO     kb time_taken = 39.375 s, boosting_rounds_used = 90. Mean Accuracy : Train - 0.98307, Test - 0.94057.
+2024-04-05 13:55:45,567 INFO     kb Current Parameters : colsample_bylevel = 0.2, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.0, learning_rate = 0.9, max_depth = 9, min_child_weight = 0.0, reg_alpha = 2.737, reg_lambda = 1.693, subsample = 1.0.
+2024-04-05 13:56:47,764 INFO     kb time_taken = 62.197 s, boosting_rounds_used = 46. Mean Accuracy : Train - 0.98006, Test - 0.9376.
+2024-04-05 13:56:49,110 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.957, learning_rate = 0.9, max_depth = 5, min_child_weight = 3.502, reg_alpha = 0.0, reg_lambda = 0.879, subsample = 1.0.
+2024-04-05 13:57:04,905 INFO     kb time_taken = 15.795 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.96374, Test - 0.93956.
+2024-04-05 13:57:06,618 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 1.0, gamma = 1.338, learning_rate = 0.9, max_depth = 6, min_child_weight = 0.0, reg_alpha = 0.0, reg_lambda = 4.201, subsample = 1.0.
+2024-04-05 13:57:43,562 INFO     kb time_taken = 36.944 s, boosting_rounds_used = 100. Mean Accuracy : Train - 0.97573, Test - 0.9404.
+2024-04-05 13:57:44,927 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 1.0, colsample_bytree = 1.0, gamma = 0.756, learning_rate = 0.9, max_depth = 7, min_child_weight = 0.656, reg_alpha = 0.0, reg_lambda = 2.455, subsample = 1.0.
+2024-04-05 13:58:24,116 INFO     kb time_taken = 39.189 s, boosting_rounds_used = 60. Mean Accuracy : Train - 0.97755, Test - 0.9393.
+2024-04-06 01:33:28,577 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.963, learning_rate = 0.95, max_depth = 10, min_child_weight = 1.106, reg_alpha = 0.0, reg_lambda = 0.891, subsample = 1.0.
+2024-04-06 01:33:44,661 INFO     kb time_taken = 16.085 s, boosting_rounds_used = 63. Mean Accuracy : Train - 0.97899, Test - 0.94262.
+2024-04-06 01:33:54,663 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.963, learning_rate = 1, max_depth = 10, min_child_weight = 1.106, reg_alpha = 0.0, reg_lambda = 0.891, subsample = 1.0.
+2024-04-06 01:34:16,481 INFO     kb time_taken = 21.818 s, boosting_rounds_used = 92. Mean Accuracy : Train - 0.98697, Test - 0.94486.
+2024-04-06 01:34:26,483 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.963, learning_rate = 0.9, max_depth = 11, min_child_weight = 1.106, reg_alpha = 0.0, reg_lambda = 0.891, subsample = 1.0.
+2024-04-06 01:34:42,372 INFO     kb time_taken = 15.888 s, boosting_rounds_used = 56. Mean Accuracy : Train - 0.97821, Test - 0.94166.
+2024-04-06 01:34:52,373 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.963, learning_rate = 0.9, max_depth = 12, min_child_weight = 1.106, reg_alpha = 0.0, reg_lambda = 0.891, subsample = 1.0.
+2024-04-06 01:35:17,168 INFO     kb time_taken = 24.795 s, boosting_rounds_used = 75. Mean Accuracy : Train - 0.98615, Test - 0.94527.
+2024-04-06 01:35:27,170 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.963, learning_rate = 0.9, max_depth = 13, min_child_weight = 1.106, reg_alpha = 0.0, reg_lambda = 0.891, subsample = 1.0.
+2024-04-06 01:35:47,731 INFO     kb time_taken = 20.561 s, boosting_rounds_used = 63. Mean Accuracy : Train - 0.98514, Test - 0.94616.
+2024-04-06 01:35:57,732 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.963, learning_rate = 0.9, max_depth = 14, min_child_weight = 1.106, reg_alpha = 0.0, reg_lambda = 0.891, subsample = 1.0.
+2024-04-06 01:36:22,756 INFO     kb time_taken = 25.024 s, boosting_rounds_used = 79. Mean Accuracy : Train - 0.98882, Test - 0.94564.
+2024-04-06 01:36:32,757 INFO     kb Current Parameters : colsample_bylevel = 1.0, colsample_bynode = 0.2, colsample_bytree = 0.2, gamma = 0.963, learning_rate = 0.9, max_depth = 15, min_child_weight = 1.106, reg_alpha = 0.0, reg_lambda = 0.891, subsample = 1.0.
+2024-04-06 01:36:54,053 INFO     kb time_taken = 21.296 s, boosting_rounds_used = 61. Mean Accuracy : Train - 0.98679, Test - 0.94354.
